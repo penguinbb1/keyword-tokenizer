@@ -556,9 +556,13 @@ class EnhancedTagger:
         
         # 获取兼容的次级标签
         secondary_tags = []
+        seen_tags = {primary.tag}
         for c in candidates[1:]:
+            if c.tag in seen_tags:
+                continue
             if are_tags_compatible(primary.tag, c.tag) and c.confidence >= 0.7:
                 secondary_tags.append(c.tag)
+                seen_tags.add(c.tag)
         
         # 构建标签列表（主标签 + 兼容的次级标签）
         all_tags = [primary.tag] + secondary_tags[:1]  # 最多2个标签

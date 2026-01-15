@@ -1,0 +1,330 @@
+{
+  "name": "人群词典",
+  "description": "目标人群标识",
+  "entries": [
+    {
+      "word": "ado",
+      "confidence": 0.85
+    },
+    {
+      "word": "adult",
+      "confidence": 0.95
+    },
+    {
+      "word": "adulte",
+      "confidence": 0.85
+    },
+    {
+      "word": "adulto",
+      "confidence": 0.85
+    },
+    {
+      "word": "adults",
+      "confidence": 0.85
+    },
+    {
+      "word": "ages",
+      "confidence": 0.8
+    },
+    {
+      "word": "astronauta",
+      "confidence": 0.8
+    },
+    {
+      "word": "baby",
+      "confidence": 0.95
+    },
+    {
+      "word": "bebe",
+      "confidence": 0.9
+    },
+    {
+      "word": "bebes",
+      "confidence": 0.9
+    },
+    {
+      "word": "bebé",
+      "confidence": 0.95
+    },
+    {
+      "word": "camper",
+      "confidence": 0.85
+    },
+    {
+      "word": "chat",
+      "confidence": 0.85
+    },
+    {
+      "word": "curvy",
+      "confidence": 0.8
+    },
+    {
+      "word": "cycliste",
+      "confidence": 0.8
+    },
+    {
+      "word": "dame",
+      "confidence": 0.9
+    },
+    {
+      "word": "damen",
+      "confidence": 0.95
+    },
+    {
+      "word": "doctor",
+      "confidence": 0.8
+    },
+    {
+      "word": "doctora",
+      "confidence": 0.8
+    },
+    {
+      "word": "dog",
+      "confidence": 0.8
+    },
+    {
+      "word": "educatif",
+      "confidence": 0.8
+    },
+    {
+      "word": "enfant",
+      "confidence": 0.95
+    },
+    {
+      "word": "escolares",
+      "confidence": 0.8
+    },
+    {
+      "word": "femme",
+      "confidence": 0.95
+    },
+    {
+      "word": "femmes",
+      "confidence": 0.9
+    },
+    {
+      "word": "fille",
+      "confidence": 0.95
+    },
+    {
+      "word": "frauen",
+      "confidence": 0.95
+    },
+    {
+      "word": "garcon",
+      "confidence": 0.8
+    },
+    {
+      "word": "gatos",
+      "confidence": 0.8
+    },
+    {
+      "word": "girls",
+      "confidence": 0.95
+    },
+    {
+      "word": "grossesse",
+      "confidence": 0.8
+    },
+    {
+      "word": "herren",
+      "confidence": 0.95
+    },
+    {
+      "word": "hombre",
+      "confidence": 0.95
+    },
+    {
+      "word": "homme",
+      "confidence": 0.95
+    },
+    {
+      "word": "human",
+      "confidence": 0.9
+    },
+    {
+      "word": "humans",
+      "confidence": 0.8
+    },
+    {
+      "word": "jungen",
+      "confidence": 0.95
+    },
+    {
+      "word": "kids",
+      "confidence": 0.95
+    },
+    {
+      "word": "kinder",
+      "confidence": 0.95
+    },
+    {
+      "word": "kpop",
+      "confidence": 0.8
+    },
+    {
+      "word": "man",
+      "confidence": 0.9
+    },
+    {
+      "word": "mano",
+      "confidence": 0.8
+    },
+    {
+      "word": "materna",
+      "confidence": 0.8
+    },
+    {
+      "word": "maternity",
+      "confidence": 0.95
+    },
+    {
+      "word": "men",
+      "confidence": 0.95
+    },
+    {
+      "word": "men's",
+      "confidence": 0.95
+    },
+    {
+      "word": "mens",
+      "confidence": 0.95
+    },
+    {
+      "word": "mujer",
+      "confidence": 0.95
+    },
+    {
+      "word": "musculaire",
+      "confidence": 0.8
+    },
+    {
+      "word": "nacidos",
+      "confidence": 0.8
+    },
+    {
+      "word": "perro",
+      "confidence": 0.8
+    },
+    {
+      "word": "perros",
+      "confidence": 0.8
+    },
+    {
+      "word": "personal",
+      "confidence": 0.8
+    },
+    {
+      "word": "pescador",
+      "confidence": 0.8
+    },
+    {
+      "word": "pies",
+      "confidence": 0.8
+    },
+    {
+      "word": "presbyte",
+      "confidence": 0.8
+    },
+    {
+      "word": "profesional",
+      "confidence": 0.8
+    },
+    {
+      "word": "professionnel",
+      "confidence": 0.8
+    },
+    {
+      "word": "schwangere",
+      "confidence": 0.9
+    },
+    {
+      "word": "schwangerschaft",
+      "confidence": 0.9
+    },
+    {
+      "word": "schwangerschafts",
+      "confidence": 0.9
+    },
+    {
+      "word": "umstands",
+      "confidence": 0.8
+    },
+    {
+      "word": "umstandsmode",
+      "confidence": 0.9
+    },
+    {
+      "word": "wedding",
+      "confidence": 0.8
+    },
+    {
+      "word": "woman",
+      "confidence": 0.9
+    },
+    {
+      "word": "women",
+      "confidence": 0.95
+    },
+    {
+      "word": "women's",
+      "confidence": 0.95
+    },
+    {
+      "word": "womens",
+      "confidence": 0.95
+    },
+    {
+      "word": "キッズ",
+      "confidence": 0.95
+    },
+    {
+      "word": "パンレディース",
+      "confidence": 0.9
+    },
+    {
+      "word": "メンズ",
+      "confidence": 0.95
+    },
+    {
+      "word": "レディース",
+      "confidence": 0.95
+    },
+    {
+      "word": "丈夫",
+      "confidence": 0.8
+    },
+    {
+      "word": "大学生",
+      "confidence": 0.95
+    },
+    {
+      "word": "女子",
+      "confidence": 0.8
+    },
+    {
+      "word": "女性",
+      "confidence": 0.95
+    },
+    {
+      "word": "子供",
+      "confidence": 0.95
+    },
+    {
+      "word": "小学生",
+      "confidence": 0.95
+    },
+    {
+      "word": "教師",
+      "confidence": 0.85
+    },
+    {
+      "word": "男性",
+      "confidence": 0.95
+    },
+    {
+      "word": "高校",
+      "confidence": 0.8
+    }
+  ]
+}

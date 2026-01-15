@@ -1,0 +1,26 @@
+{
+  "name": "日本品牌词典",
+  "description": "日本品牌及日语名称",
+  "entries": [
+    {"word": "ソニー", "confidence": 1.0},
+    {"word": "パナソニック", "confidence": 1.0},
+    {"word": "トヨタ", "confidence": 1.0},
+    {"word": "ホンダ", "confidence": 1.0},
+    {"word": "ニッサン", "confidence": 1.0},
+    {"word": "任天堂", "confidence": 1.0},
+    {"word": "ユニクロ", "confidence": 1.0},
+    {"word": "無印良品", "confidence": 1.0},
+    {"word": "資生堂", "confidence": 1.0},
+    {"word": "花王", "confidence": 1.0},
+    {"word": "キヤノン", "confidence": 1.0},
+    {"word": "ニコン", "confidence": 1.0},
+    {"word": "富士フイルム", "confidence": 1.0},
+    {"word": "シャープ", "confidence": 1.0},
+    {"word": "東芝", "confidence": 1.0},
+    {"word": "日立", "confidence": 1.0},
+    {"word": "三菱", "confidence": 1.0},
+    {"word": "セイコー", "confidence": 1.0},
+    {"word": "カシオ", "confidence": 1.0},
+    {"word": "アシックス", "confidence": 1.0}
+  ]
+}

@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ===========================================
+# 项目特定忽略项
+# ===========================================
+
+# 测试数据（可能包含业务敏感信息）
+*.csv
+test_results*.json
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

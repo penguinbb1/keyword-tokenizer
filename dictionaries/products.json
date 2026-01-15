@@ -1,0 +1,3206 @@
+{
+  "name": "商品词典",
+  "description": "商品品类名称（多语言）",
+  "entries": [
+    {
+      "word": "-leggings",
+      "confidence": 0.95
+    },
+    {
+      "word": "abanico",
+      "confidence": 0.8
+    },
+    {
+      "word": "abanicos",
+      "confidence": 0.85
+    },
+    {
+      "word": "accesorios",
+      "confidence": 0.85
+    },
+    {
+      "word": "accessoires",
+      "confidence": 0.82
+    },
+    {
+      "word": "accessories",
+      "confidence": 0.9
+    },
+    {
+      "word": "acouphene",
+      "confidence": 0.8
+    },
+    {
+      "word": "acouphène",
+      "confidence": 0.8
+    },
+    {
+      "word": "acouphènes",
+      "confidence": 0.8
+    },
+    {
+      "word": "adaptador",
+      "confidence": 0.9
+    },
+    {
+      "word": "afeitar",
+      "confidence": 0.8
+    },
+    {
+      "word": "agujas",
+      "confidence": 0.8
+    },
+    {
+      "word": "airbrush",
+      "confidence": 0.8
+    },
+    {
+      "word": "airsoft",
+      "confidence": 0.8
+    },
+    {
+      "word": "airstyler",
+      "confidence": 0.85
+    },
+    {
+      "word": "airwrap",
+      "confidence": 0.8
+    },
+    {
+      "word": "akku",
+      "confidence": 0.8
+    },
+    {
+      "word": "alarme",
+      "confidence": 0.8
+    },
+    {
+      "word": "alarmes",
+      "confidence": 0.8
+    },
+    {
+      "word": "alicates",
+      "confidence": 0.8
+    },
+    {
+      "word": "antena",
+      "confidence": 0.9
+    },
+    {
+      "word": "antenas",
+      "confidence": 0.8
+    },
+    {
+      "word": "antifaz",
+      "confidence": 0.8
+    },
+    {
+      "word": "antipulgas",
+      "confidence": 0.8
+    },
+    {
+      "word": "appareil",
+      "confidence": 0.8
+    },
+    {
+      "word": "aretes",
+      "confidence": 0.8
+    },
+    {
+      "word": "armauflage",
+      "confidence": 0.8
+    },
+    {
+      "word": "aspiradora",
+      "confidence": 0.95
+    },
+    {
+      "word": "attache",
+      "confidence": 0.8
+    },
+    {
+      "word": "attress",
+      "confidence": 0.8
+    },
+    {
+      "word": "audifonos",
+      "confidence": 0.95
+    },
+    {
+      "word": "audio",
+      "confidence": 0.8
+    },
+    {
+      "word": "audífonos",
+      "confidence": 0.9
+    },
+    {
+      "word": "aufbewahrung",
+      "confidence": 0.87
+    },
+    {
+      "word": "aufbewahrungsbox",
+      "confidence": 0.85
+    },
+    {
+      "word": "auriculares",
+      "confidence": 0.95
+    },
+    {
+      "word": "bac",
+      "confidence": 0.95
+    },
+    {
+      "word": "backpack",
+      "confidence": 0.95
+    },
+    {
+      "word": "bad",
+      "confidence": 0.8
+    },
+    {
+      "word": "badewanne",
+      "confidence": 0.8
+    },
+    {
+      "word": "badewannenkissen",
+      "confidence": 0.8
+    },
+    {
+      "word": "bag",
+      "confidence": 0.97
+    },
+    {
+      "word": "bags",
+      "confidence": 0.9
+    },
+    {
+      "word": "balaclava",
+      "confidence": 0.8
+    },
+    {
+      "word": "ball",
+      "confidence": 0.85
+    },
+    {
+      "word": "banneton",
+      "confidence": 0.8
+    },
+    {
+      "word": "base",
+      "confidence": 0.8
+    },
+    {
+      "word": "basket",
+      "confidence": 0.85
+    },
+    {
+      "word": "baston",
+      "confidence": 0.85
+    },
+    {
+      "word": "bastones",
+      "confidence": 0.8
+    },
+    {
+      "word": "bastón",
+      "confidence": 0.85
+    },
+    {
+      "word": "bateria",
+      "confidence": 0.85
+    },
+    {
+      "word": "batidor",
+      "confidence": 0.85
+    },
+    {
+      "word": "batidora",
+      "confidence": 0.85
+    },
+    {
+      "word": "batterie",
+      "confidence": 0.9
+    },
+    {
+      "word": "beans",
+      "confidence": 0.9
+    },
+    {
+      "word": "becherhalter",
+      "confidence": 0.8
+    },
+    {
+      "word": "bed",
+      "confidence": 0.8
+    },
+    {
+      "word": "bekleidung",
+      "confidence": 0.87
+    },
+    {
+      "word": "belt",
+      "confidence": 0.97
+    },
+    {
+      "word": "besen",
+      "confidence": 0.8
+    },
+    {
+      "word": "bett",
+      "confidence": 0.8
+    },
+    {
+      "word": "bh",
+      "confidence": 0.9
+    },
+    {
+      "word": "biberones",
+      "confidence": 0.85
+    },
+    {
+      "word": "bicycle",
+      "confidence": 0.8
+    },
+    {
+      "word": "bidet",
+      "confidence": 0.85
+    },
+    {
+      "word": "bikewa",
+      "confidence": 0.8
+    },
+    {
+      "word": "bilderrahmen",
+      "confidence": 0.8
+    },
+    {
+      "word": "blade",
+      "confidence": 0.8
+    },
+    {
+      "word": "blanket",
+      "confidence": 0.95
+    },
+    {
+      "word": "blaser",
+      "confidence": 0.8
+    },
+    {
+      "word": "blaster",
+      "confidence": 0.8
+    },
+    {
+      "word": "blazer",
+      "confidence": 0.9
+    },
+    {
+      "word": "blouse",
+      "confidence": 0.95
+    },
+    {
+      "word": "bluse",
+      "confidence": 0.95
+    },
+    {
+      "word": "board",
+      "confidence": 0.82
+    },
+    {
+      "word": "boards",
+      "confidence": 0.82
+    },
+    {
+      "word": "bocal",
+      "confidence": 0.8
+    },
+    {
+      "word": "body",
+      "confidence": 0.9
+    },
+    {
+      "word": "bodys",
+      "confidence": 0.8
+    },
+    {
+      "word": "bodysuit",
+      "confidence": 0.9
+    },
+    {
+      "word": "boite",
+      "confidence": 0.95
+    },
+    {
+      "word": "bolsas",
+      "confidence": 0.85
+    },
+    {
+      "word": "bolsillo",
+      "confidence": 0.8
+    },
+    {
+      "word": "bomba",
+      "confidence": 0.8
+    },
+    {
+      "word": "bootcut",
+      "confidence": 0.85
+    },
+    {
+      "word": "bote",
+      "confidence": 0.8
+    },
+    {
+      "word": "bottle",
+      "confidence": 0.9
+    },
+    {
+      "word": "boucleur",
+      "confidence": 0.8
+    },
+    {
+      "word": "boule",
+      "confidence": 0.8
+    },
+    {
+      "word": "bouteille",
+      "confidence": 0.8
+    },
+    {
+      "word": "box",
+      "confidence": 0.85
+    },
+    {
+      "word": "boxershorts",
+      "confidence": 0.9
+    },
+    {
+      "word": "boxes",
+      "confidence": 0.9
+    },
+    {
+      "word": "bozal",
+      "confidence": 0.8
+    },
+    {
+      "word": "brazos",
+      "confidence": 0.8
+    },
+    {
+      "word": "bread",
+      "confidence": 0.85
+    },
+    {
+      "word": "brille",
+      "confidence": 0.85
+    },
+    {
+      "word": "brocas",
+      "confidence": 0.8
+    },
+    {
+      "word": "brosse",
+      "confidence": 0.9
+    },
+    {
+      "word": "brush",
+      "confidence": 0.9
+    },
+    {
+      "word": "brushing",
+      "confidence": 0.8
+    },
+    {
+      "word": "buff",
+      "confidence": 0.85
+    },
+    {
+      "word": "cabello",
+      "confidence": 0.85
+    },
+    {
+      "word": "cabezal",
+      "confidence": 0.85
+    },
+    {
+      "word": "cable",
+      "confidence": 0.9
+    },
+    {
+      "word": "cables",
+      "confidence": 0.9
+    },
+    {
+      "word": "cadre",
+      "confidence": 0.85
+    },
+    {
+      "word": "cafe",
+      "confidence": 0.8
+    },
+    {
+      "word": "cafetera",
+      "confidence": 0.85
+    },
+    {
+      "word": "caja",
+      "confidence": 0.8
+    },
+    {
+      "word": "calcetines",
+      "confidence": 0.85
+    },
+    {
+      "word": "calentador",
+      "confidence": 0.85
+    },
+    {
+      "word": "calibrador",
+      "confidence": 0.8
+    },
+    {
+      "word": "callos",
+      "confidence": 0.8
+    },
+    {
+      "word": "camara",
+      "confidence": 0.9
+    },
+    {
+      "word": "camaras",
+      "confidence": 0.85
+    },
+    {
+      "word": "camera",
+      "confidence": 0.85
+    },
+    {
+      "word": "cangurera",
+      "confidence": 0.8
+    },
+    {
+      "word": "canguro",
+      "confidence": 0.85
+    },
+    {
+      "word": "capri",
+      "confidence": 0.9
+    },
+    {
+      "word": "car",
+      "confidence": 0.8
+    },
+    {
+      "word": "carcasa",
+      "confidence": 0.8
+    },
+    {
+      "word": "card",
+      "confidence": 0.8
+    },
+    {
+      "word": "cards",
+      "confidence": 0.8
+    },
+    {
+      "word": "cardstock",
+      "confidence": 0.93
+    },
+    {
+      "word": "cargador",
+      "confidence": 0.9
+    },
+    {
+      "word": "cargo",
+      "confidence": 0.85
+    },
+    {
+      "word": "carne",
+      "confidence": 0.8
+    },
+    {
+      "word": "carro",
+      "confidence": 0.8
+    },
+    {
+      "word": "carros",
+      "confidence": 0.8
+    },
+    {
+      "word": "carry",
+      "confidence": 0.8
+    },
+    {
+      "word": "case",
+      "confidence": 0.8
+    },
+    {
+      "word": "casque",
+      "confidence": 0.9
+    },
+    {
+      "word": "ceinture",
+      "confidence": 0.95
+    },
+    {
+      "word": "celular",
+      "confidence": 0.8
+    },
+    {
+      "word": "cepillo",
+      "confidence": 0.9
+    },
+    {
+      "word": "cepillos",
+      "confidence": 0.85
+    },
+    {
+      "word": "chains",
+      "confidence": 0.8
+    },
+    {
+      "word": "chainsaw",
+      "confidence": 0.85
+    },
+    {
+      "word": "chair",
+      "confidence": 0.8
+    },
+    {
+      "word": "chambre",
+      "confidence": 0.8
+    },
+    {
+      "word": "chauffage",
+      "confidence": 0.95
+    },
+    {
+      "word": "chaussure",
+      "confidence": 0.9
+    },
+    {
+      "word": "chaussures",
+      "confidence": 0.95
+    },
+    {
+      "word": "cintre",
+      "confidence": 0.8
+    },
+    {
+      "word": "cintres",
+      "confidence": 0.8
+    },
+    {
+      "word": "clasp",
+      "confidence": 0.8
+    },
+    {
+      "word": "clef",
+      "confidence": 0.8
+    },
+    {
+      "word": "clip",
+      "confidence": 0.8
+    },
+    {
+      "word": "clips",
+      "confidence": 0.8
+    },
+    {
+      "word": "clock",
+      "confidence": 0.8
+    },
+    {
+      "word": "closet",
+      "confidence": 0.8
+    },
+    {
+      "word": "clothes",
+      "confidence": 0.97
+    },
+    {
+      "word": "clothing",
+      "confidence": 0.92
+    },
+    {
+      "word": "clé",
+      "confidence": 0.8
+    },
+    {
+      "word": "coffee",
+      "confidence": 0.87
+    },
+    {
+      "word": "coffre",
+      "confidence": 0.95
+    },
+    {
+      "word": "coffret",
+      "confidence": 0.85
+    },
+    {
+      "word": "collant",
+      "confidence": 0.95
+    },
+    {
+      "word": "collants",
+      "confidence": 0.8
+    },
+    {
+      "word": "comforter",
+      "confidence": 0.97
+    },
+    {
+      "word": "comforters",
+      "confidence": 0.82
+    },
+    {
+      "word": "conector",
+      "confidence": 0.8
+    },
+    {
+      "word": "consola",
+      "confidence": 0.85
+    },
+    {
+      "word": "contacto",
+      "confidence": 0.8
+    },
+    {
+      "word": "control",
+      "confidence": 0.85
+    },
+    {
+      "word": "controles",
+      "confidence": 0.85
+    },
+    {
+      "word": "controller",
+      "confidence": 0.9
+    },
+    {
+      "word": "convertidor",
+      "confidence": 0.85
+    },
+    {
+      "word": "cooler",
+      "confidence": 0.92
+    },
+    {
+      "word": "corrector",
+      "confidence": 0.8
+    },
+    {
+      "word": "cortador",
+      "confidence": 0.85
+    },
+    {
+      "word": "cortadora",
+      "confidence": 0.8
+    },
+    {
+      "word": "cortina",
+      "confidence": 0.8
+    },
+    {
+      "word": "cortinas",
+      "confidence": 0.85
+    },
+    {
+      "word": "cou",
+      "confidence": 0.8
+    },
+    {
+      "word": "couette",
+      "confidence": 0.85
+    },
+    {
+      "word": "coussin",
+      "confidence": 0.8
+    },
+    {
+      "word": "couvercle",
+      "confidence": 0.85
+    },
+    {
+      "word": "couverture",
+      "confidence": 0.9
+    },
+    {
+      "word": "covers",
+      "confidence": 0.8
+    },
+    {
+      "word": "crate",
+      "confidence": 0.9
+    },
+    {
+      "word": "cravate",
+      "confidence": 0.8
+    },
+    {
+      "word": "crimpadora",
+      "confidence": 0.8
+    },
+    {
+      "word": "crochet",
+      "confidence": 0.8
+    },
+    {
+      "word": "crop",
+      "confidence": 0.8
+    },
+    {
+      "word": "cucharas",
+      "confidence": 0.8
+    },
+    {
+      "word": "cuillere",
+      "confidence": 0.85
+    },
+    {
+      "word": "cuisine",
+      "confidence": 0.85
+    },
+    {
+      "word": "cuna",
+      "confidence": 0.8
+    },
+    {
+      "word": "cutter",
+      "confidence": 0.8
+    },
+    {
+      "word": "cámara",
+      "confidence": 0.8
+    },
+    {
+      "word": "cámaras",
+      "confidence": 0.85
+    },
+    {
+      "word": "decke",
+      "confidence": 0.8
+    },
+    {
+      "word": "decken",
+      "confidence": 0.8
+    },
+    {
+      "word": "decoration",
+      "confidence": 0.8
+    },
+    {
+      "word": "depiladora",
+      "confidence": 0.85
+    },
+    {
+      "word": "deportivos",
+      "confidence": 0.85
+    },
+    {
+      "word": "destornillador",
+      "confidence": 0.8
+    },
+    {
+      "word": "diadema",
+      "confidence": 0.8
+    },
+    {
+      "word": "diffuser",
+      "confidence": 0.8
+    },
+    {
+      "word": "diffuseur",
+      "confidence": 0.8
+    },
+    {
+      "word": "diffusor",
+      "confidence": 0.8
+    },
+    {
+      "word": "difusor",
+      "confidence": 0.8
+    },
+    {
+      "word": "dinosaur",
+      "confidence": 0.8
+    },
+    {
+      "word": "dinosaurios",
+      "confidence": 0.8
+    },
+    {
+      "word": "discos",
+      "confidence": 0.8
+    },
+    {
+      "word": "dispositif",
+      "confidence": 0.8
+    },
+    {
+      "word": "douche",
+      "confidence": 0.95
+    },
+    {
+      "word": "douchette",
+      "confidence": 0.85
+    },
+    {
+      "word": "drap",
+      "confidence": 0.8
+    },
+    {
+      "word": "dress",
+      "confidence": 0.95
+    },
+    {
+      "word": "dresses",
+      "confidence": 0.85
+    },
+    {
+      "word": "dressing",
+      "confidence": 0.85
+    },
+    {
+      "word": "drill",
+      "confidence": 0.8
+    },
+    {
+      "word": "dryer",
+      "confidence": 0.85
+    },
+    {
+      "word": "ducha",
+      "confidence": 0.85
+    },
+    {
+      "word": "duffel",
+      "confidence": 0.9
+    },
+    {
+      "word": "duffle",
+      "confidence": 0.9
+    },
+    {
+      "word": "dvd/cd",
+      "confidence": 0.8
+    },
+    {
+      "word": "décoration",
+      "confidence": 0.8
+    },
+    {
+      "word": "eau",
+      "confidence": 0.8
+    },
+    {
+      "word": "ecouteur",
+      "confidence": 0.9
+    },
+    {
+      "word": "egg",
+      "confidence": 0.85
+    },
+    {
+      "word": "eggings",
+      "confidence": 0.8
+    },
+    {
+      "word": "electromenager",
+      "confidence": 0.85
+    },
+    {
+      "word": "electronica",
+      "confidence": 0.82
+    },
+    {
+      "word": "elektroheizung",
+      "confidence": 0.85
+    },
+    {
+      "word": "empalme",
+      "confidence": 0.85
+    },
+    {
+      "word": "enchufe",
+      "confidence": 0.8
+    },
+    {
+      "word": "envelopes",
+      "confidence": 1.0
+    },
+    {
+      "word": "escritorio",
+      "confidence": 0.85
+    },
+    {
+      "word": "espumador",
+      "confidence": 0.85
+    },
+    {
+      "word": "essence",
+      "confidence": 0.8
+    },
+    {
+      "word": "esterilizador",
+      "confidence": 0.8
+    },
+    {
+      "word": "estufa",
+      "confidence": 0.85
+    },
+    {
+      "word": "etagere",
+      "confidence": 0.95
+    },
+    {
+      "word": "exfoliante",
+      "confidence": 0.8
+    },
+    {
+      "word": "extension",
+      "confidence": 0.8
+    },
+    {
+      "word": "extractor",
+      "confidence": 0.85
+    },
+    {
+      "word": "fahrradhose",
+      "confidence": 0.95
+    },
+    {
+      "word": "fahrradhosen",
+      "confidence": 0.9
+    },
+    {
+      "word": "fahrradjacke",
+      "confidence": 0.85
+    },
+    {
+      "word": "fahrradrucksack",
+      "confidence": 0.9
+    },
+    {
+      "word": "fahrradunterhose",
+      "confidence": 0.9
+    },
+    {
+      "word": "fernbedienung",
+      "confidence": 0.85
+    },
+    {
+      "word": "figurine",
+      "confidence": 0.85
+    },
+    {
+      "word": "filaire",
+      "confidence": 0.82
+    },
+    {
+      "word": "filtro",
+      "confidence": 0.85
+    },
+    {
+      "word": "flashcards",
+      "confidence": 0.8
+    },
+    {
+      "word": "foco",
+      "confidence": 0.8
+    },
+    {
+      "word": "folders",
+      "confidence": 0.85
+    },
+    {
+      "word": "formende",
+      "confidence": 0.8
+    },
+    {
+      "word": "fouet",
+      "confidence": 0.8
+    },
+    {
+      "word": "frame",
+      "confidence": 0.85
+    },
+    {
+      "word": "fregadero",
+      "confidence": 0.8
+    },
+    {
+      "word": "fresadora",
+      "confidence": 0.8
+    },
+    {
+      "word": "fromage",
+      "confidence": 0.85
+    },
+    {
+      "word": "gabinete",
+      "confidence": 0.85
+    },
+    {
+      "word": "gadgets",
+      "confidence": 0.87
+    },
+    {
+      "word": "gafas",
+      "confidence": 0.8
+    },
+    {
+      "word": "ganchillos",
+      "confidence": 0.8
+    },
+    {
+      "word": "gancho",
+      "confidence": 0.85
+    },
+    {
+      "word": "ganchos",
+      "confidence": 0.8
+    },
+    {
+      "word": "gato",
+      "confidence": 0.8
+    },
+    {
+      "word": "gatos",
+      "confidence": 0.8
+    },
+    {
+      "word": "gear",
+      "confidence": 0.8
+    },
+    {
+      "word": "gesicht",
+      "confidence": 0.8
+    },
+    {
+      "word": "glasses",
+      "confidence": 0.85
+    },
+    {
+      "word": "glitter",
+      "confidence": 0.83
+    },
+    {
+      "word": "goggles",
+      "confidence": 0.8
+    },
+    {
+      "word": "gogles",
+      "confidence": 0.8
+    },
+    {
+      "word": "gorra",
+      "confidence": 0.95
+    },
+    {
+      "word": "gorro",
+      "confidence": 0.8
+    },
+    {
+      "word": "grapas",
+      "confidence": 0.8
+    },
+    {
+      "word": "grifo",
+      "confidence": 0.8
+    },
+    {
+      "word": "grifos",
+      "confidence": 0.8
+    },
+    {
+      "word": "guantes",
+      "confidence": 0.95
+    },
+    {
+      "word": "guirnalda",
+      "confidence": 0.8
+    },
+    {
+      "word": "gun",
+      "confidence": 0.82
+    },
+    {
+      "word": "gürtel",
+      "confidence": 0.85
+    },
+    {
+      "word": "gürtelhalter",
+      "confidence": 0.85
+    },
+    {
+      "word": "haarstyler",
+      "confidence": 0.85
+    },
+    {
+      "word": "haartrockner",
+      "confidence": 0.9
+    },
+    {
+      "word": "hairstyler",
+      "confidence": 0.85
+    },
+    {
+      "word": "hamac",
+      "confidence": 0.85
+    },
+    {
+      "word": "hat",
+      "confidence": 0.97
+    },
+    {
+      "word": "hdd",
+      "confidence": 0.8
+    },
+    {
+      "word": "hdtv",
+      "confidence": 0.85
+    },
+    {
+      "word": "headphones",
+      "confidence": 0.95
+    },
+    {
+      "word": "headset",
+      "confidence": 0.9
+    },
+    {
+      "word": "heater",
+      "confidence": 0.85
+    },
+    {
+      "word": "heizlüfter",
+      "confidence": 0.95
+    },
+    {
+      "word": "heizstrahler",
+      "confidence": 0.8
+    },
+    {
+      "word": "heizung",
+      "confidence": 0.85
+    },
+    {
+      "word": "helicóptero",
+      "confidence": 0.8
+    },
+    {
+      "word": "herramienta",
+      "confidence": 0.8
+    },
+    {
+      "word": "herramientas",
+      "confidence": 0.85
+    },
+    {
+      "word": "hielo",
+      "confidence": 0.8
+    },
+    {
+      "word": "hielos",
+      "confidence": 0.8
+    },
+    {
+      "word": "higrometro",
+      "confidence": 0.85
+    },
+    {
+      "word": "higrómetro",
+      "confidence": 0.85
+    },
+    {
+      "word": "hoodie",
+      "confidence": 0.95
+    },
+    {
+      "word": "horloge",
+      "confidence": 0.8
+    },
+    {
+      "word": "hose",
+      "confidence": 0.97
+    },
+    {
+      "word": "hosen",
+      "confidence": 0.97
+    },
+    {
+      "word": "hotpants",
+      "confidence": 0.9
+    },
+    {
+      "word": "hub",
+      "confidence": 0.85
+    },
+    {
+      "word": "hundenetz",
+      "confidence": 0.8
+    },
+    {
+      "word": "hydration",
+      "confidence": 0.8
+    },
+    {
+      "word": "impresora",
+      "confidence": 0.9
+    },
+    {
+      "word": "infrarotlampe",
+      "confidence": 0.85
+    },
+    {
+      "word": "inodoro",
+      "confidence": 0.85
+    },
+    {
+      "word": "invitation",
+      "confidence": 0.8
+    },
+    {
+      "word": "invitations",
+      "confidence": 0.8
+    },
+    {
+      "word": "iron",
+      "confidence": 0.85
+    },
+    {
+      "word": "jacke",
+      "confidence": 0.95
+    },
+    {
+      "word": "jacket",
+      "confidence": 0.97
+    },
+    {
+      "word": "jackets",
+      "confidence": 0.9
+    },
+    {
+      "word": "jean",
+      "confidence": 0.9
+    },
+    {
+      "word": "jeans",
+      "confidence": 0.95
+    },
+    {
+      "word": "jersey",
+      "confidence": 0.95
+    },
+    {
+      "word": "jogger",
+      "confidence": 0.8
+    },
+    {
+      "word": "joggers",
+      "confidence": 0.95
+    },
+    {
+      "word": "jogginghose",
+      "confidence": 0.95
+    },
+    {
+      "word": "joghurt",
+      "confidence": 0.8
+    },
+    {
+      "word": "joystick",
+      "confidence": 0.8
+    },
+    {
+      "word": "jug",
+      "confidence": 0.85
+    },
+    {
+      "word": "juguete",
+      "confidence": 0.9
+    },
+    {
+      "word": "juguetes",
+      "confidence": 0.9
+    },
+    {
+      "word": "karaoke",
+      "confidence": 0.8
+    },
+    {
+      "word": "kefir",
+      "confidence": 0.8
+    },
+    {
+      "word": "key",
+      "confidence": 0.8
+    },
+    {
+      "word": "keychain",
+      "confidence": 0.95
+    },
+    {
+      "word": "kissen",
+      "confidence": 0.85
+    },
+    {
+      "word": "kleid",
+      "confidence": 0.95
+    },
+    {
+      "word": "kleiderschrank",
+      "confidence": 0.9
+    },
+    {
+      "word": "kleidung",
+      "confidence": 0.92
+    },
+    {
+      "word": "krawatten",
+      "confidence": 0.8
+    },
+    {
+      "word": "krawattenhalter",
+      "confidence": 0.8
+    },
+    {
+      "word": "kühldecke",
+      "confidence": 0.8
+    },
+    {
+      "word": "ladungssicherung",
+      "confidence": 0.8
+    },
+    {
+      "word": "lamp",
+      "confidence": 0.85
+    },
+    {
+      "word": "lampara",
+      "confidence": 0.9
+    },
+    {
+      "word": "lamparas",
+      "confidence": 0.8
+    },
+    {
+      "word": "lampe",
+      "confidence": 0.8
+    },
+    {
+      "word": "langarm-body",
+      "confidence": 0.8
+    },
+    {
+      "word": "langarmbody",
+      "confidence": 0.85
+    },
+    {
+      "word": "laptop",
+      "confidence": 0.9
+    },
+    {
+      "word": "laufhose",
+      "confidence": 0.85
+    },
+    {
+      "word": "laufrucksack",
+      "confidence": 0.8
+    },
+    {
+      "word": "laufweste",
+      "confidence": 0.85
+    },
+    {
+      "word": "lavalier",
+      "confidence": 0.85
+    },
+    {
+      "word": "lavar",
+      "confidence": 0.8
+    },
+    {
+      "word": "leche",
+      "confidence": 0.8
+    },
+    {
+      "word": "lechuga",
+      "confidence": 0.8
+    },
+    {
+      "word": "lector",
+      "confidence": 0.9
+    },
+    {
+      "word": "legging",
+      "confidence": 0.85
+    },
+    {
+      "word": "leggings",
+      "confidence": 0.95
+    },
+    {
+      "word": "leggins",
+      "confidence": 0.95
+    },
+    {
+      "word": "lentes",
+      "confidence": 0.9
+    },
+    {
+      "word": "lesebrille",
+      "confidence": 0.95
+    },
+    {
+      "word": "levain",
+      "confidence": 0.8
+    },
+    {
+      "word": "ligas",
+      "confidence": 0.8
+    },
+    {
+      "word": "lija",
+      "confidence": 0.8
+    },
+    {
+      "word": "lijadora",
+      "confidence": 0.85
+    },
+    {
+      "word": "lima",
+      "confidence": 0.85
+    },
+    {
+      "word": "limas",
+      "confidence": 0.81
+    },
+    {
+      "word": "limpiador",
+      "confidence": 0.85
+    },
+    {
+      "word": "lining",
+      "confidence": 0.8
+    },
+    {
+      "word": "linterna",
+      "confidence": 0.85
+    },
+    {
+      "word": "linternas",
+      "confidence": 0.81
+    },
+    {
+      "word": "lit",
+      "confidence": 0.85
+    },
+    {
+      "word": "llave",
+      "confidence": 0.8
+    },
+    {
+      "word": "llaves",
+      "confidence": 0.8
+    },
+    {
+      "word": "lockenstab",
+      "confidence": 0.9
+    },
+    {
+      "word": "longsleeve",
+      "confidence": 0.9
+    },
+    {
+      "word": "loupe",
+      "confidence": 0.9
+    },
+    {
+      "word": "lsprüher",
+      "confidence": 0.8
+    },
+    {
+      "word": "luces",
+      "confidence": 0.9
+    },
+    {
+      "word": "lunchbag",
+      "confidence": 0.85
+    },
+    {
+      "word": "lunchbox",
+      "confidence": 0.85
+    },
+    {
+      "word": "lunette",
+      "confidence": 0.9
+    },
+    {
+      "word": "lunettes",
+      "confidence": 0.9
+    },
+    {
+      "word": "luz",
+      "confidence": 0.8
+    },
+    {
+      "word": "lámpara",
+      "confidence": 0.9
+    },
+    {
+      "word": "lámparas",
+      "confidence": 0.85
+    },
+    {
+      "word": "machine",
+      "confidence": 0.8
+    },
+    {
+      "word": "macrame",
+      "confidence": 0.8
+    },
+    {
+      "word": "macramé",
+      "confidence": 0.8
+    },
+    {
+      "word": "mailboxes",
+      "confidence": 0.8
+    },
+    {
+      "word": "makramee",
+      "confidence": 0.8
+    },
+    {
+      "word": "maleta",
+      "confidence": 0.85
+    },
+    {
+      "word": "maletas",
+      "confidence": 0.9
+    },
+    {
+      "word": "mancuernas",
+      "confidence": 0.85
+    },
+    {
+      "word": "manette",
+      "confidence": 0.8
+    },
+    {
+      "word": "mangas",
+      "confidence": 0.8
+    },
+    {
+      "word": "manguera",
+      "confidence": 0.9
+    },
+    {
+      "word": "mangueras",
+      "confidence": 0.85
+    },
+    {
+      "word": "manila",
+      "confidence": 0.8
+    },
+    {
+      "word": "mantel",
+      "confidence": 0.98
+    },
+    {
+      "word": "maquina",
+      "confidence": 0.9
+    },
+    {
+      "word": "masaje",
+      "confidence": 0.8
+    },
+    {
+      "word": "masajeador",
+      "confidence": 0.85
+    },
+    {
+      "word": "masajeadora",
+      "confidence": 0.85
+    },
+    {
+      "word": "masajes",
+      "confidence": 0.85
+    },
+    {
+      "word": "massagepistole",
+      "confidence": 0.95
+    },
+    {
+      "word": "massager",
+      "confidence": 0.85
+    },
+    {
+      "word": "masseur",
+      "confidence": 0.8
+    },
+    {
+      "word": "mattress",
+      "confidence": 0.95
+    },
+    {
+      "word": "mattresses",
+      "confidence": 0.9
+    },
+    {
+      "word": "medidora",
+      "confidence": 0.8
+    },
+    {
+      "word": "medidoras",
+      "confidence": 0.85
+    },
+    {
+      "word": "mezcladora",
+      "confidence": 0.9
+    },
+    {
+      "word": "microfono",
+      "confidence": 0.9
+    },
+    {
+      "word": "microfonos",
+      "confidence": 0.85
+    },
+    {
+      "word": "microphone",
+      "confidence": 0.85
+    },
+    {
+      "word": "micrófono",
+      "confidence": 0.9
+    },
+    {
+      "word": "micrófonos",
+      "confidence": 0.85
+    },
+    {
+      "word": "minuteur",
+      "confidence": 0.82
+    },
+    {
+      "word": "mochila",
+      "confidence": 0.95
+    },
+    {
+      "word": "mochilas",
+      "confidence": 0.9
+    },
+    {
+      "word": "model",
+      "confidence": 0.95
+    },
+    {
+      "word": "moldes",
+      "confidence": 0.8
+    },
+    {
+      "word": "molino",
+      "confidence": 0.8
+    },
+    {
+      "word": "monomando",
+      "confidence": 0.8
+    },
+    {
+      "word": "montre",
+      "confidence": 0.95
+    },
+    {
+      "word": "monture",
+      "confidence": 0.8
+    },
+    {
+      "word": "mosquitero",
+      "confidence": 0.8
+    },
+    {
+      "word": "moto",
+      "confidence": 0.8
+    },
+    {
+      "word": "motorrad",
+      "confidence": 0.8
+    },
+    {
+      "word": "motosierra",
+      "confidence": 0.9
+    },
+    {
+      "word": "mountainbike",
+      "confidence": 0.9
+    },
+    {
+      "word": "mouse",
+      "confidence": 0.9
+    },
+    {
+      "word": "moustiquaire",
+      "confidence": 0.9
+    },
+    {
+      "word": "multiconector",
+      "confidence": 0.8
+    },
+    {
+      "word": "multicontactos",
+      "confidence": 0.8
+    },
+    {
+      "word": "multiherramienta",
+      "confidence": 0.9
+    },
+    {
+      "word": "multiherramientas",
+      "confidence": 0.85
+    },
+    {
+      "word": "multimetro",
+      "confidence": 0.9
+    },
+    {
+      "word": "multipuerto",
+      "confidence": 0.8
+    },
+    {
+      "word": "multímetro",
+      "confidence": 0.8
+    },
+    {
+      "word": "mural",
+      "confidence": 0.8
+    },
+    {
+      "word": "musique",
+      "confidence": 0.8
+    },
+    {
+      "word": "navaja",
+      "confidence": 0.8
+    },
+    {
+      "word": "navajas",
+      "confidence": 0.85
+    },
+    {
+      "word": "neceser",
+      "confidence": 0.8
+    },
+    {
+      "word": "netztasche",
+      "confidence": 0.82
+    },
+    {
+      "word": "nkehalter",
+      "confidence": 0.8
+    },
+    {
+      "word": "notecards",
+      "confidence": 0.85
+    },
+    {
+      "word": "nvme",
+      "confidence": 0.8
+    },
+    {
+      "word": "orbital",
+      "confidence": 0.8
+    },
+    {
+      "word": "oreilles",
+      "confidence": 0.8
+    },
+    {
+      "word": "organisateur",
+      "confidence": 0.8
+    },
+    {
+      "word": "organiseur",
+      "confidence": 0.85
+    },
+    {
+      "word": "organizador",
+      "confidence": 0.85
+    },
+    {
+      "word": "organizadoras",
+      "confidence": 0.85
+    },
+    {
+      "word": "organizadores",
+      "confidence": 0.8
+    },
+    {
+      "word": "organizer",
+      "confidence": 0.92
+    },
+    {
+      "word": "outdoorhose",
+      "confidence": 0.85
+    },
+    {
+      "word": "outfits",
+      "confidence": 0.87
+    },
+    {
+      "word": "outils",
+      "confidence": 0.8
+    },
+    {
+      "word": "oven",
+      "confidence": 0.85
+    },
+    {
+      "word": "pad",
+      "confidence": 0.9
+    },
+    {
+      "word": "pads",
+      "confidence": 0.8
+    },
+    {
+      "word": "pail",
+      "confidence": 0.82
+    },
+    {
+      "word": "pajama",
+      "confidence": 0.85
+    },
+    {
+      "word": "panier",
+      "confidence": 0.8
+    },
+    {
+      "word": "pantalon",
+      "confidence": 0.95
+    },
+    {
+      "word": "pants",
+      "confidence": 0.97
+    },
+    {
+      "word": "pantyhose",
+      "confidence": 0.92
+    },
+    {
+      "word": "papel",
+      "confidence": 0.8
+    },
+    {
+      "word": "paper",
+      "confidence": 0.87
+    },
+    {
+      "word": "paraguas",
+      "confidence": 0.9
+    },
+    {
+      "word": "parchment",
+      "confidence": 0.8
+    },
+    {
+      "word": "pared",
+      "confidence": 0.8
+    },
+    {
+      "word": "pasamonta",
+      "confidence": 0.85
+    },
+    {
+      "word": "passoire",
+      "confidence": 0.8
+    },
+    {
+      "word": "pastel",
+      "confidence": 0.8
+    },
+    {
+      "word": "pastillas",
+      "confidence": 0.85
+    },
+    {
+      "word": "pastillero",
+      "confidence": 0.8
+    },
+    {
+      "word": "pie",
+      "confidence": 0.8
+    },
+    {
+      "word": "piedra",
+      "confidence": 0.8
+    },
+    {
+      "word": "pies",
+      "confidence": 0.8
+    },
+    {
+      "word": "pila",
+      "confidence": 0.8
+    },
+    {
+      "word": "pilas",
+      "confidence": 0.85
+    },
+    {
+      "word": "pillow",
+      "confidence": 0.8
+    },
+    {
+      "word": "pinceles",
+      "confidence": 0.8
+    },
+    {
+      "word": "pinzas",
+      "confidence": 0.8
+    },
+    {
+      "word": "pistola",
+      "confidence": 0.95
+    },
+    {
+      "word": "pistole",
+      "confidence": 0.92
+    },
+    {
+      "word": "pistolet",
+      "confidence": 0.9
+    },
+    {
+      "word": "plafond",
+      "confidence": 0.82
+    },
+    {
+      "word": "plaid",
+      "confidence": 0.9
+    },
+    {
+      "word": "plancha",
+      "confidence": 0.8
+    },
+    {
+      "word": "plantas",
+      "confidence": 0.8
+    },
+    {
+      "word": "plantilla",
+      "confidence": 0.8
+    },
+    {
+      "word": "plantillas",
+      "confidence": 0.8
+    },
+    {
+      "word": "plat",
+      "confidence": 0.9
+    },
+    {
+      "word": "plato",
+      "confidence": 0.8
+    },
+    {
+      "word": "playdough",
+      "confidence": 0.85
+    },
+    {
+      "word": "player",
+      "confidence": 0.85
+    },
+    {
+      "word": "plexiglass",
+      "confidence": 0.8
+    },
+    {
+      "word": "pluma",
+      "confidence": 0.8
+    },
+    {
+      "word": "poele",
+      "confidence": 0.8
+    },
+    {
+      "word": "pole",
+      "confidence": 0.8
+    },
+    {
+      "word": "polo",
+      "confidence": 0.95
+    },
+    {
+      "word": "polos",
+      "confidence": 0.87
+    },
+    {
+      "word": "pompe",
+      "confidence": 0.85
+    },
+    {
+      "word": "poncho",
+      "confidence": 0.8
+    },
+    {
+      "word": "portabebe",
+      "confidence": 0.85
+    },
+    {
+      "word": "portatiles",
+      "confidence": 0.85
+    },
+    {
+      "word": "portátil",
+      "confidence": 0.9
+    },
+    {
+      "word": "postcards",
+      "confidence": 0.85
+    },
+    {
+      "word": "poster",
+      "confidence": 0.85
+    },
+    {
+      "word": "printer",
+      "confidence": 0.9
+    },
+    {
+      "word": "protector",
+      "confidence": 0.8
+    },
+    {
+      "word": "protectores",
+      "confidence": 0.8
+    },
+    {
+      "word": "proyector",
+      "confidence": 0.9
+    },
+    {
+      "word": "puerto",
+      "confidence": 0.8
+    },
+    {
+      "word": "pulidor",
+      "confidence": 0.8
+    },
+    {
+      "word": "pulidora",
+      "confidence": 0.8
+    },
+    {
+      "word": "pull",
+      "confidence": 0.95
+    },
+    {
+      "word": "pullover",
+      "confidence": 0.95
+    },
+    {
+      "word": "pulverizador",
+      "confidence": 0.8
+    },
+    {
+      "word": "pyjama",
+      "confidence": 0.8
+    },
+    {
+      "word": "quemador",
+      "confidence": 0.8
+    },
+    {
+      "word": "queso",
+      "confidence": 0.85
+    },
+    {
+      "word": "rad",
+      "confidence": 0.85
+    },
+    {
+      "word": "radfahrerhose",
+      "confidence": 0.9
+    },
+    {
+      "word": "radhose",
+      "confidence": 0.95
+    },
+    {
+      "word": "radiateur",
+      "confidence": 0.85
+    },
+    {
+      "word": "radios",
+      "confidence": 0.85
+    },
+    {
+      "word": "radlerhose",
+      "confidence": 0.95
+    },
+    {
+      "word": "radunterhose",
+      "confidence": 0.95
+    },
+    {
+      "word": "rallador",
+      "confidence": 0.8
+    },
+    {
+      "word": "rangement",
+      "confidence": 0.95
+    },
+    {
+      "word": "rastrillo",
+      "confidence": 0.8
+    },
+    {
+      "word": "rasuradora",
+      "confidence": 0.9
+    },
+    {
+      "word": "rasuradoras",
+      "confidence": 0.85
+    },
+    {
+      "word": "recamara",
+      "confidence": 0.8
+    },
+    {
+      "word": "receptor",
+      "confidence": 0.8
+    },
+    {
+      "word": "regadera",
+      "confidence": 0.9
+    },
+    {
+      "word": "regaderas",
+      "confidence": 0.8
+    },
+    {
+      "word": "regal",
+      "confidence": 0.85
+    },
+    {
+      "word": "regalos",
+      "confidence": 0.8
+    },
+    {
+      "word": "regenjacke",
+      "confidence": 0.85
+    },
+    {
+      "word": "regleta",
+      "confidence": 0.95
+    },
+    {
+      "word": "reisetasche",
+      "confidence": 0.85
+    },
+    {
+      "word": "reloj",
+      "confidence": 0.95
+    },
+    {
+      "word": "relojes",
+      "confidence": 0.9
+    },
+    {
+      "word": "rennrad",
+      "confidence": 0.9
+    },
+    {
+      "word": "reproductor",
+      "confidence": 0.85
+    },
+    {
+      "word": "retrovisor",
+      "confidence": 0.8
+    },
+    {
+      "word": "reveil",
+      "confidence": 0.9
+    },
+    {
+      "word": "rings",
+      "confidence": 0.8
+    },
+    {
+      "word": "robe",
+      "confidence": 0.95
+    },
+    {
+      "word": "robot",
+      "confidence": 0.85
+    },
+    {
+      "word": "robotica",
+      "confidence": 0.8
+    },
+    {
+      "word": "rock",
+      "confidence": 0.97
+    },
+    {
+      "word": "roof",
+      "confidence": 0.8
+    },
+    {
+      "word": "ropa",
+      "confidence": 0.9
+    },
+    {
+      "word": "rotlichtlampe",
+      "confidence": 0.95
+    },
+    {
+      "word": "roulette",
+      "confidence": 0.8
+    },
+    {
+      "word": "roulettes",
+      "confidence": 0.8
+    },
+    {
+      "word": "router",
+      "confidence": 0.85
+    },
+    {
+      "word": "rucksack",
+      "confidence": 0.95
+    },
+    {
+      "word": "réveil",
+      "confidence": 0.9
+    },
+    {
+      "word": "sac",
+      "confidence": 0.95
+    },
+    {
+      "word": "schlaftrainer",
+      "confidence": 0.82
+    },
+    {
+      "word": "schlaghose",
+      "confidence": 0.9
+    },
+    {
+      "word": "schuhfach",
+      "confidence": 0.85
+    },
+    {
+      "word": "schwangerschaftshose",
+      "confidence": 0.9
+    },
+    {
+      "word": "schwangerschaftsleggings",
+      "confidence": 0.9
+    },
+    {
+      "word": "scrapbook",
+      "confidence": 0.8
+    },
+    {
+      "word": "secador",
+      "confidence": 0.8
+    },
+    {
+      "word": "secadora",
+      "confidence": 0.85
+    },
+    {
+      "word": "seche-cheveux",
+      "confidence": 0.85
+    },
+    {
+      "word": "seesack",
+      "confidence": 0.8
+    },
+    {
+      "word": "sensor",
+      "confidence": 0.85
+    },
+    {
+      "word": "separador",
+      "confidence": 0.8
+    },
+    {
+      "word": "series",
+      "confidence": 0.85
+    },
+    {
+      "word": "set",
+      "confidence": 0.85
+    },
+    {
+      "word": "sets",
+      "confidence": 0.82
+    },
+    {
+      "word": "shaper",
+      "confidence": 0.8
+    },
+    {
+      "word": "shapewear",
+      "confidence": 0.95
+    },
+    {
+      "word": "shears",
+      "confidence": 0.8
+    },
+    {
+      "word": "sherpa",
+      "confidence": 0.8
+    },
+    {
+      "word": "shirt",
+      "confidence": 0.97
+    },
+    {
+      "word": "shirts",
+      "confidence": 0.95
+    },
+    {
+      "word": "shorts",
+      "confidence": 0.97
+    },
+    {
+      "word": "sieb",
+      "confidence": 0.8
+    },
+    {
+      "word": "sierra",
+      "confidence": 0.8
+    },
+    {
+      "word": "silicon",
+      "confidence": 0.85
+    },
+    {
+      "word": "silla",
+      "confidence": 0.8
+    },
+    {
+      "word": "skin",
+      "confidence": 0.87
+    },
+    {
+      "word": "skirucksack",
+      "confidence": 0.8
+    },
+    {
+      "word": "sling",
+      "confidence": 0.85
+    },
+    {
+      "word": "smartwatch",
+      "confidence": 0.9
+    },
+    {
+      "word": "snack",
+      "confidence": 0.9
+    },
+    {
+      "word": "socks",
+      "confidence": 0.92
+    },
+    {
+      "word": "soldador",
+      "confidence": 0.85
+    },
+    {
+      "word": "soldadura",
+      "confidence": 0.8
+    },
+    {
+      "word": "sombrero",
+      "confidence": 0.95
+    },
+    {
+      "word": "sombreros",
+      "confidence": 0.9
+    },
+    {
+      "word": "sombrilla",
+      "confidence": 0.8
+    },
+    {
+      "word": "sombrillas",
+      "confidence": 0.85
+    },
+    {
+      "word": "sourdough",
+      "confidence": 0.85
+    },
+    {
+      "word": "space",
+      "confidence": 0.85
+    },
+    {
+      "word": "spandex",
+      "confidence": 0.9
+    },
+    {
+      "word": "sporthose",
+      "confidence": 0.95
+    },
+    {
+      "word": "sporthosen",
+      "confidence": 0.85
+    },
+    {
+      "word": "sportleggings",
+      "confidence": 0.9
+    },
+    {
+      "word": "sportleggins",
+      "confidence": 0.9
+    },
+    {
+      "word": "sporttasche",
+      "confidence": 0.95
+    },
+    {
+      "word": "sprühflasche",
+      "confidence": 0.8
+    },
+    {
+      "word": "ssd",
+      "confidence": 0.9
+    },
+    {
+      "word": "sticker",
+      "confidence": 0.85
+    },
+    {
+      "word": "stoffhose",
+      "confidence": 0.8
+    },
+    {
+      "word": "strainer",
+      "confidence": 0.85
+    },
+    {
+      "word": "string",
+      "confidence": 0.85
+    },
+    {
+      "word": "stroller",
+      "confidence": 0.85
+    },
+    {
+      "word": "strumpfhose",
+      "confidence": 0.95
+    },
+    {
+      "word": "strumpfhosen",
+      "confidence": 0.85
+    },
+    {
+      "word": "strumpfschlauch",
+      "confidence": 0.8
+    },
+    {
+      "word": "styler",
+      "confidence": 0.9
+    },
+    {
+      "word": "sunshade",
+      "confidence": 0.9
+    },
+    {
+      "word": "sweat",
+      "confidence": 0.9
+    },
+    {
+      "word": "sweatpants",
+      "confidence": 0.95
+    },
+    {
+      "word": "sweats",
+      "confidence": 0.8
+    },
+    {
+      "word": "switch",
+      "confidence": 0.9
+    },
+    {
+      "word": "sèche-cheveux",
+      "confidence": 0.9
+    },
+    {
+      "word": "t-shirt",
+      "confidence": 0.95
+    },
+    {
+      "word": "t-shirts",
+      "confidence": 0.92
+    },
+    {
+      "word": "table",
+      "confidence": 0.85
+    },
+    {
+      "word": "tabletop",
+      "confidence": 0.85
+    },
+    {
+      "word": "taladro",
+      "confidence": 0.9
+    },
+    {
+      "word": "tanga",
+      "confidence": 0.9
+    },
+    {
+      "word": "tapon",
+      "confidence": 0.8
+    },
+    {
+      "word": "tasche",
+      "confidence": 0.95
+    },
+    {
+      "word": "taza",
+      "confidence": 0.85
+    },
+    {
+      "word": "tazas",
+      "confidence": 0.85
+    },
+    {
+      "word": "teclado",
+      "confidence": 0.9
+    },
+    {
+      "word": "tee",
+      "confidence": 0.8
+    },
+    {
+      "word": "tees",
+      "confidence": 0.9
+    },
+    {
+      "word": "telecommande",
+      "confidence": 0.9
+    },
+    {
+      "word": "telefono",
+      "confidence": 0.9
+    },
+    {
+      "word": "terminales",
+      "confidence": 0.85
+    },
+    {
+      "word": "termometro",
+      "confidence": 0.9
+    },
+    {
+      "word": "termómetro",
+      "confidence": 0.85
+    },
+    {
+      "word": "therapy",
+      "confidence": 0.8
+    },
+    {
+      "word": "thermohose",
+      "confidence": 0.95
+    },
+    {
+      "word": "thermoleggings",
+      "confidence": 0.95
+    },
+    {
+      "word": "thermostat",
+      "confidence": 0.85
+    },
+    {
+      "word": "throw",
+      "confidence": 0.85
+    },
+    {
+      "word": "tights",
+      "confidence": 0.97
+    },
+    {
+      "word": "timbre",
+      "confidence": 0.8
+    },
+    {
+      "word": "timbres",
+      "confidence": 0.8
+    },
+    {
+      "word": "tisch",
+      "confidence": 0.85
+    },
+    {
+      "word": "toalla",
+      "confidence": 0.8
+    },
+    {
+      "word": "toallas",
+      "confidence": 0.95
+    },
+    {
+      "word": "top",
+      "confidence": 0.8
+    },
+    {
+      "word": "topper",
+      "confidence": 0.9
+    },
+    {
+      "word": "toppers",
+      "confidence": 0.8
+    },
+    {
+      "word": "tops",
+      "confidence": 0.95
+    },
+    {
+      "word": "tote",
+      "confidence": 0.85
+    },
+    {
+      "word": "trekkinghose",
+      "confidence": 0.85
+    },
+    {
+      "word": "trimmer",
+      "confidence": 0.85
+    },
+    {
+      "word": "trinkblase",
+      "confidence": 0.85
+    },
+    {
+      "word": "trinkrucksack",
+      "confidence": 0.85
+    },
+    {
+      "word": "tripie",
+      "confidence": 0.85
+    },
+    {
+      "word": "trousers",
+      "confidence": 0.9
+    },
+    {
+      "word": "tshirt",
+      "confidence": 0.97
+    },
+    {
+      "word": "tshirts",
+      "confidence": 0.9
+    },
+    {
+      "word": "tunic",
+      "confidence": 0.85
+    },
+    {
+      "word": "tunics",
+      "confidence": 0.85
+    },
+    {
+      "word": "télécommande",
+      "confidence": 0.85
+    },
+    {
+      "word": "umstandshose",
+      "confidence": 0.8
+    },
+    {
+      "word": "umstandsjeans",
+      "confidence": 0.8
+    },
+    {
+      "word": "umstandsleggings",
+      "confidence": 0.95
+    },
+    {
+      "word": "umstandsstrumpfhose",
+      "confidence": 0.8
+    },
+    {
+      "word": "underscrub",
+      "confidence": 0.8
+    },
+    {
+      "word": "undershirt",
+      "confidence": 0.8
+    },
+    {
+      "word": "unterbett",
+      "confidence": 0.8
+    },
+    {
+      "word": "unterbettbox",
+      "confidence": 0.9
+    },
+    {
+      "word": "unterbettkommode",
+      "confidence": 0.8
+    },
+    {
+      "word": "unterhose",
+      "confidence": 0.9
+    },
+    {
+      "word": "unterhosen",
+      "confidence": 0.92
+    },
+    {
+      "word": "ustensiles",
+      "confidence": 0.8
+    },
+    {
+      "word": "veladoras",
+      "confidence": 0.8
+    },
+    {
+      "word": "velas",
+      "confidence": 0.8
+    },
+    {
+      "word": "velitas",
+      "confidence": 0.8
+    },
+    {
+      "word": "ventilador",
+      "confidence": 0.9
+    },
+    {
+      "word": "ventilateur",
+      "confidence": 0.9
+    },
+    {
+      "word": "ventilo",
+      "confidence": 0.85
+    },
+    {
+      "word": "verduras",
+      "confidence": 0.85
+    },
+    {
+      "word": "vernier",
+      "confidence": 0.8
+    },
+    {
+      "word": "verre",
+      "confidence": 0.8
+    },
+    {
+      "word": "vest",
+      "confidence": 0.95
+    },
+    {
+      "word": "vetement",
+      "confidence": 0.9
+    },
+    {
+      "word": "vibreur",
+      "confidence": 0.8
+    },
+    {
+      "word": "video",
+      "confidence": 0.8
+    },
+    {
+      "word": "vitrine",
+      "confidence": 0.85
+    },
+    {
+      "word": "voile",
+      "confidence": 0.8
+    },
+    {
+      "word": "vr",
+      "confidence": 0.8
+    },
+    {
+      "word": "wafflera",
+      "confidence": 0.85
+    },
+    {
+      "word": "waffles",
+      "confidence": 0.8
+    },
+    {
+      "word": "waflera",
+      "confidence": 0.9
+    },
+    {
+      "word": "wafleras",
+      "confidence": 0.85
+    },
+    {
+      "word": "walkie",
+      "confidence": 0.8
+    },
+    {
+      "word": "wallet",
+      "confidence": 0.95
+    },
+    {
+      "word": "wanderhose",
+      "confidence": 0.9
+    },
+    {
+      "word": "wanderrucksack",
+      "confidence": 0.85
+    },
+    {
+      "word": "wanderschuhe",
+      "confidence": 0.9
+    },
+    {
+      "word": "warmluftbürste",
+      "confidence": 0.9
+    },
+    {
+      "word": "watch",
+      "confidence": 0.95
+    },
+    {
+      "word": "wearable",
+      "confidence": 0.85
+    },
+    {
+      "word": "wecker",
+      "confidence": 0.9
+    },
+    {
+      "word": "wheels",
+      "confidence": 0.85
+    },
+    {
+      "word": "wickeltisch",
+      "confidence": 0.8
+    },
+    {
+      "word": "windjacke",
+      "confidence": 0.85
+    },
+    {
+      "word": "wrap",
+      "confidence": 0.87
+    },
+    {
+      "word": "wristlet",
+      "confidence": 0.9
+    },
+    {
+      "word": "yaourt",
+      "confidence": 0.8
+    },
+    {
+      "word": "yogahose",
+      "confidence": 0.95
+    },
+    {
+      "word": "yogurt",
+      "confidence": 0.85
+    },
+    {
+      "word": "zapatos",
+      "confidence": 0.95
+    },
+    {
+      "word": "écouteurs",
+      "confidence": 0.95
+    },
+    {
+      "word": "électroménager",
+      "confidence": 0.9
+    },
+    {
+      "word": "étagère",
+      "confidence": 0.85
+    },
+    {
+      "word": "かばん",
+      "confidence": 0.9
+    },
+    {
+      "word": "ウェア",
+      "confidence": 0.87
+    },
+    {
+      "word": "カバン",
+      "confidence": 0.97
+    },
+    {
+      "word": "キャリーオンバッグ",
+      "confidence": 0.85
+    },
+    {
+      "word": "サック",
+      "confidence": 0.85
+    },
+    {
+      "word": "ザック",
+      "confidence": 0.95
+    },
+    {
+      "word": "ショルダーバッグ",
+      "confidence": 0.8
+    },
+    {
+      "word": "ショートパンツ",
+      "confidence": 0.97
+    },
+    {
+      "word": "スポーツウェア",
+      "confidence": 0.95
+    },
+    {
+      "word": "スマホ",
+      "confidence": 0.8
+    },
+    {
+      "word": "スーツケース",
+      "confidence": 0.9
+    },
+    {
+      "word": "ズボン",
+      "confidence": 0.8
+    },
+    {
+      "word": "ソフトフラスク",
+      "confidence": 0.85
+    },
+    {
+      "word": "タブレット",
+      "confidence": 0.9
+    },
+    {
+      "word": "チョッキ",
+      "confidence": 0.82
+    },
+    {
+      "word": "デイパック",
+      "confidence": 0.95
+    },
+    {
+      "word": "トート",
+      "confidence": 0.9
+    },
+    {
+      "word": "トートバック",
+      "confidence": 0.9
+    },
+    {
+      "word": "トートバッグ",
+      "confidence": 0.9
+    },
+    {
+      "word": "ノート",
+      "confidence": 0.9
+    },
+    {
+      "word": "ハーフパンツ",
+      "confidence": 0.95
+    },
+    {
+      "word": "バック",
+      "confidence": 0.92
+    },
+    {
+      "word": "バックパック",
+      "confidence": 0.95
+    },
+    {
+      "word": "バッグ",
+      "confidence": 0.95
+    },
+    {
+      "word": "パンツ",
+      "confidence": 0.97
+    },
+    {
+      "word": "ベスト",
+      "confidence": 0.95
+    },
+    {
+      "word": "ベルト",
+      "confidence": 0.92
+    },
+    {
+      "word": "ボストンバッグ",
+      "confidence": 0.9
+    },
+    {
+      "word": "ボトル",
+      "confidence": 0.9
+    },
+    {
+      "word": "ランニングザック",
+      "confidence": 0.95
+    },
+    {
+      "word": "ランニングパンツ",
+      "confidence": 0.95
+    },
+    {
+      "word": "ランニングベスト",
+      "confidence": 0.95
+    },
+    {
+      "word": "ランニングポーチ",
+      "confidence": 0.95
+    },
+    {
+      "word": "リュック",
+      "confidence": 0.97
+    },
+    {
+      "word": "リュックサック",
+      "confidence": 0.95
+    },
+    {
+      "word": "レギンス",
+      "confidence": 0.95
+    },
+    {
+      "word": "横型",
+      "confidence": 0.85
+    },
+    {
+      "word": "水筒",
+      "confidence": 0.8
+    },
+    {
+      "word": "給水",
+      "confidence": 0.85
+    },
+    {
+      "word": "腹巻き",
+      "confidence": 0.9
+    },
+    {
+      "word": "ランニングリュック",
+      "confidence": 0.9
+    },
+    {
+      "word": "ハイキングリュック",
+      "confidence": 0.9
+    },
+    {
+      "word": "トレッキングリュック",
+      "confidence": 0.9
+    },
+    {
+      "word": "アウトドアリュック",
+      "confidence": 0.9
+    },
+    {
+      "word": "ウォーキングリュック",
+      "confidence": 0.9
+    },
+    {
+      "word": "ジョギングリュック",
+      "confidence": 0.9
+    },
+    {
+      "word": "マラソンリュック",
+      "confidence": 0.9
+    },
+    {
+      "word": "トレランザック",
+      "confidence": 0.9
+    },
+    {
+      "word": "ハイドレーションバッグ",
+      "confidence": 0.9
+    },
+    {
+      "word": "ランニングバッグ",
+      "confidence": 0.9
+    },
+    {
+      "word": "スーツケースバッグ",
+      "confidence": 0.9
+    },
+    {
+      "word": "トレッキングパンツ",
+      "confidence": 0.9
+    },
+    {
+      "word": "レディースパンツ",
+      "confidence": 0.9
+    },
+    {
+      "word": "マラソンベスト",
+      "confidence": 0.9
+    },
+    {
+      "word": "ジョギングベスト",
+      "confidence": 0.9
+    },
+    {
+      "word": "ランベスト",
+      "confidence": 0.9
+    },
+    {
+      "word": "ボディバッグ",
+      "confidence": 0.9
+    },
+    {
+      "word": "ウエストバッグ",
+      "confidence": 0.9
+    },
+    {
+      "word": "エコバッグ",
+      "confidence": 0.9
+    },
+    {
+      "word": "キャリーケース",
+      "confidence": 0.9
+    },
+    {
+      "word": "ペンケース",
+      "confidence": 0.9
+    },
+    {
+      "word": "メイクポーチ",
+      "confidence": 0.9
+    },
+    {
+      "word": "ランニングシューズ",
+      "confidence": 0.9
+    },
+    {
+      "word": "molde",
+      "confidence": 0.85
+    },
+    {
+      "word": "estuche",
+      "confidence": 0.85
+    },
+    {
+      "word": "coche",
+      "confidence": 0.85
+    },
+    {
+      "word": "juego",
+      "confidence": 0.85
+    },
+    {
+      "word": "bolsa",
+      "confidence": 0.85
+    },
+    {
+      "word": "bocina",
+      "confidence": 0.85
+    }
+  ]
+}

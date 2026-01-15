@@ -1,0 +1,586 @@
+{
+  "name": "场景词典",
+  "description": "使用场景",
+  "entries": [
+    {
+      "word": "acampar",
+      "confidence": 0.8
+    },
+    {
+      "word": "acupuntura",
+      "confidence": 0.8
+    },
+    {
+      "word": "athletic",
+      "confidence": 0.9
+    },
+    {
+      "word": "auto",
+      "confidence": 0.85
+    },
+    {
+      "word": "autos",
+      "confidence": 0.81
+    },
+    {
+      "word": "bain",
+      "confidence": 0.8
+    },
+    {
+      "word": "baking",
+      "confidence": 0.8
+    },
+    {
+      "word": "basketball",
+      "confidence": 0.9
+    },
+    {
+      "word": "bathroom",
+      "confidence": 0.8
+    },
+    {
+      "word": "bike",
+      "confidence": 0.85
+    },
+    {
+      "word": "biking",
+      "confidence": 0.85
+    },
+    {
+      "word": "bureau",
+      "confidence": 0.95
+    },
+    {
+      "word": "campa",
+      "confidence": 0.8
+    },
+    {
+      "word": "camping",
+      "confidence": 0.95
+    },
+    {
+      "word": "casa",
+      "confidence": 0.8
+    },
+    {
+      "word": "casual",
+      "confidence": 0.95
+    },
+    {
+      "word": "changing",
+      "confidence": 0.8
+    },
+    {
+      "word": "ciclismo",
+      "confidence": 0.9
+    },
+    {
+      "word": "cocina",
+      "confidence": 0.9
+    },
+    {
+      "word": "correr",
+      "confidence": 0.95
+    },
+    {
+      "word": "course",
+      "confidence": 0.95
+    },
+    {
+      "word": "cycling",
+      "confidence": 0.9
+    },
+    {
+      "word": "dance",
+      "confidence": 0.8
+    },
+    {
+      "word": "deportiva",
+      "confidence": 0.8
+    },
+    {
+      "word": "disco",
+      "confidence": 0.8
+    },
+    {
+      "word": "discos",
+      "confidence": 0.8
+    },
+    {
+      "word": "ejercicio",
+      "confidence": 0.9
+    },
+    {
+      "word": "emergencias",
+      "confidence": 0.8
+    },
+    {
+      "word": "enduro",
+      "confidence": 0.8
+    },
+    {
+      "word": "escolar",
+      "confidence": 0.8
+    },
+    {
+      "word": "exercise",
+      "confidence": 0.8
+    },
+    {
+      "word": "exterior",
+      "confidence": 0.8
+    },
+    {
+      "word": "fahrrad",
+      "confidence": 0.95
+    },
+    {
+      "word": "fall",
+      "confidence": 0.8
+    },
+    {
+      "word": "fashion",
+      "confidence": 0.8
+    },
+    {
+      "word": "fiesta",
+      "confidence": 0.8
+    },
+    {
+      "word": "fishing",
+      "confidence": 0.9
+    },
+    {
+      "word": "fitness",
+      "confidence": 0.95
+    },
+    {
+      "word": "foyer",
+      "confidence": 0.85
+    },
+    {
+      "word": "golf",
+      "confidence": 0.8
+    },
+    {
+      "word": "googlesnatacion",
+      "confidence": 0.8
+    },
+    {
+      "word": "gravel",
+      "confidence": 0.8
+    },
+    {
+      "word": "gym",
+      "confidence": 0.95
+    },
+    {
+      "word": "habitacion",
+      "confidence": 0.8
+    },
+    {
+      "word": "halloween",
+      "confidence": 0.85
+    },
+    {
+      "word": "herbst",
+      "confidence": 0.85
+    },
+    {
+      "word": "hiking",
+      "confidence": 0.95
+    },
+    {
+      "word": "hiver",
+      "confidence": 0.95
+    },
+    {
+      "word": "hogar",
+      "confidence": 0.8
+    },
+    {
+      "word": "innenraum",
+      "confidence": 0.8
+    },
+    {
+      "word": "internet",
+      "confidence": 0.8
+    },
+    {
+      "word": "ironing",
+      "confidence": 0.85
+    },
+    {
+      "word": "jogging",
+      "confidence": 0.95
+    },
+    {
+      "word": "kofferraum",
+      "confidence": 0.85
+    },
+    {
+      "word": "laufen",
+      "confidence": 0.95
+    },
+    {
+      "word": "lectura",
+      "confidence": 0.8
+    },
+    {
+      "word": "lecture",
+      "confidence": 0.85
+    },
+    {
+      "word": "limpieza",
+      "confidence": 0.85
+    },
+    {
+      "word": "lluvia",
+      "confidence": 0.85
+    },
+    {
+      "word": "lounge",
+      "confidence": 0.85
+    },
+    {
+      "word": "lunch",
+      "confidence": 0.85
+    },
+    {
+      "word": "maison",
+      "confidence": 0.8
+    },
+    {
+      "word": "maquillaje",
+      "confidence": 0.85
+    },
+    {
+      "word": "massage",
+      "confidence": 0.9
+    },
+    {
+      "word": "mountain",
+      "confidence": 0.8
+    },
+    {
+      "word": "mtb",
+      "confidence": 0.85
+    },
+    {
+      "word": "natacion",
+      "confidence": 0.9
+    },
+    {
+      "word": "navide",
+      "confidence": 0.8
+    },
+    {
+      "word": "nuit",
+      "confidence": 0.85
+    },
+    {
+      "word": "office",
+      "confidence": 0.95
+    },
+    {
+      "word": "oficina",
+      "confidence": 0.95
+    },
+    {
+      "word": "outdoor",
+      "confidence": 0.95
+    },
+    {
+      "word": "outfit",
+      "confidence": 0.8
+    },
+    {
+      "word": "outside",
+      "confidence": 0.85
+    },
+    {
+      "word": "pasteleria",
+      "confidence": 0.8
+    },
+    {
+      "word": "pilates",
+      "confidence": 0.85
+    },
+    {
+      "word": "plage",
+      "confidence": 0.95
+    },
+    {
+      "word": "play",
+      "confidence": 0.8
+    },
+    {
+      "word": "randonnée",
+      "confidence": 0.95
+    },
+    {
+      "word": "reise",
+      "confidence": 0.95
+    },
+    {
+      "word": "reposteria",
+      "confidence": 0.8
+    },
+    {
+      "word": "road",
+      "confidence": 0.9
+    },
+    {
+      "word": "running",
+      "confidence": 0.95
+    },
+    {
+      "word": "salle",
+      "confidence": 0.8
+    },
+    {
+      "word": "schreibtisch",
+      "confidence": 0.8
+    },
+    {
+      "word": "senderismo",
+      "confidence": 0.95
+    },
+    {
+      "word": "ski",
+      "confidence": 0.9
+    },
+    {
+      "word": "sleep",
+      "confidence": 0.8
+    },
+    {
+      "word": "snow",
+      "confidence": 0.8
+    },
+    {
+      "word": "soccer",
+      "confidence": 0.8
+    },
+    {
+      "word": "solares",
+      "confidence": 0.8
+    },
+    {
+      "word": "sommeil",
+      "confidence": 0.8
+    },
+    {
+      "word": "sommer",
+      "confidence": 0.8
+    },
+    {
+      "word": "spinning",
+      "confidence": 0.9
+    },
+    {
+      "word": "sport",
+      "confidence": 0.95
+    },
+    {
+      "word": "sports",
+      "confidence": 0.95
+    },
+    {
+      "word": "studying",
+      "confidence": 0.8
+    },
+    {
+      "word": "summer",
+      "confidence": 0.95
+    },
+    {
+      "word": "tactical",
+      "confidence": 0.8
+    },
+    {
+      "word": "tanz",
+      "confidence": 0.8
+    },
+    {
+      "word": "terrain",
+      "confidence": 0.8
+    },
+    {
+      "word": "therapie",
+      "confidence": 0.8
+    },
+    {
+      "word": "trail",
+      "confidence": 0.9
+    },
+    {
+      "word": "travail",
+      "confidence": 0.8
+    },
+    {
+      "word": "travel",
+      "confidence": 0.95
+    },
+    {
+      "word": "viaje",
+      "confidence": 0.95
+    },
+    {
+      "word": "voiture",
+      "confidence": 0.9
+    },
+    {
+      "word": "voyage",
+      "confidence": 0.95
+    },
+    {
+      "word": "wandern",
+      "confidence": 0.95
+    },
+    {
+      "word": "winter",
+      "confidence": 0.95
+    },
+    {
+      "word": "work",
+      "confidence": 0.8
+    },
+    {
+      "word": "work out",
+      "confidence": 0.85
+    },
+    {
+      "word": "workout",
+      "confidence": 0.95
+    },
+    {
+      "word": "yoga",
+      "confidence": 0.95
+    },
+    {
+      "word": "été",
+      "confidence": 0.95
+    },
+    {
+      "word": "めがけ",
+      "confidence": 0.8
+    },
+    {
+      "word": "アウトドア",
+      "confidence": 0.95
+    },
+    {
+      "word": "ウォーキング",
+      "confidence": 0.95
+    },
+    {
+      "word": "オフィス",
+      "confidence": 0.95
+    },
+    {
+      "word": "カジュアル",
+      "confidence": 0.95
+    },
+    {
+      "word": "ジム",
+      "confidence": 0.8
+    },
+    {
+      "word": "スポーツ",
+      "confidence": 0.95
+    },
+    {
+      "word": "トラベル",
+      "confidence": 0.85
+    },
+    {
+      "word": "トレイル",
+      "confidence": 0.9
+    },
+    {
+      "word": "トレイルラン",
+      "confidence": 0.95
+    },
+    {
+      "word": "トレッキング",
+      "confidence": 0.95
+    },
+    {
+      "word": "トレラン",
+      "confidence": 0.9
+    },
+    {
+      "word": "ハイキング",
+      "confidence": 0.95
+    },
+    {
+      "word": "ビジネス",
+      "confidence": 0.95
+    },
+    {
+      "word": "マラソン",
+      "confidence": 0.95
+    },
+    {
+      "word": "ランニング",
+      "confidence": 0.95
+    },
+    {
+      "word": "仕事",
+      "confidence": 0.8
+    },
+    {
+      "word": "作業",
+      "confidence": 0.85
+    },
+    {
+      "word": "出張",
+      "confidence": 0.85
+    },
+    {
+      "word": "山登",
+      "confidence": 0.85
+    },
+    {
+      "word": "教科",
+      "confidence": 0.8
+    },
+    {
+      "word": "旅行",
+      "confidence": 1.0
+    },
+    {
+      "word": "登山",
+      "confidence": 1.0
+    },
+    {
+      "word": "登山用",
+      "confidence": 0.95
+    },
+    {
+      "word": "通勤",
+      "confidence": 1.0
+    },
+    {
+      "word": "jardin",
+      "confidence": 0.85
+    },
+    {
+      "word": "navidad",
+      "confidence": 0.85
+    },
+    {
+      "word": "wc",
+      "confidence": 0.85
+    },
+    {
+      "word": "emergencia",
+      "confidence": 0.85
+    },
+    {
+      "word": "d'appoint",
+      "confidence": 0.85
+    }
+  ]
+}

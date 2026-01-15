@@ -1,0 +1,1410 @@
+{
+  "name": "属性词典",
+  "description": "产品属性特征",
+  "entries": [
+    {
+      "word": "acrylique",
+      "confidence": 0.8
+    },
+    {
+      "word": "adhesif",
+      "confidence": 0.85
+    },
+    {
+      "word": "aimantée",
+      "confidence": 0.8
+    },
+    {
+      "word": "air",
+      "confidence": 0.8
+    },
+    {
+      "word": "ajustable",
+      "confidence": 0.8
+    },
+    {
+      "word": "al",
+      "confidence": 0.85
+    },
+    {
+      "word": "alta",
+      "confidence": 0.8
+    },
+    {
+      "word": "amincissant",
+      "confidence": 0.8
+    },
+    {
+      "word": "and",
+      "confidence": 0.85
+    },
+    {
+      "word": "anti",
+      "confidence": 0.8
+    },
+    {
+      "word": "antirrobo",
+      "confidence": 0.8
+    },
+    {
+      "word": "as",
+      "confidence": 0.85
+    },
+    {
+      "word": "au",
+      "confidence": 0.85
+    },
+    {
+      "word": "aube",
+      "confidence": 0.8
+    },
+    {
+      "word": "automatique",
+      "confidence": 0.8
+    },
+    {
+      "word": "avec",
+      "confidence": 0.85
+    },
+    {
+      "word": "ba",
+      "confidence": 0.85
+    },
+    {
+      "word": "basic",
+      "confidence": 0.8
+    },
+    {
+      "word": "baumwoll",
+      "confidence": 0.9
+    },
+    {
+      "word": "baumwolle",
+      "confidence": 0.9
+    },
+    {
+      "word": "big",
+      "confidence": 0.8
+    },
+    {
+      "word": "blank",
+      "confidence": 0.8
+    },
+    {
+      "word": "bluetooth",
+      "confidence": 0.8
+    },
+    {
+      "word": "bois",
+      "confidence": 0.8
+    },
+    {
+      "word": "bottom",
+      "confidence": 0.8
+    },
+    {
+      "word": "brillant",
+      "confidence": 0.8
+    },
+    {
+      "word": "button down",
+      "confidence": 0.9
+    },
+    {
+      "word": "by",
+      "confidence": 0.85
+    },
+    {
+      "word": "capuche",
+      "confidence": 0.9
+    },
+    {
+      "word": "cd",
+      "confidence": 0.9
+    },
+    {
+      "word": "cervicales",
+      "confidence": 0.8
+    },
+    {
+      "word": "chauffant",
+      "confidence": 0.8
+    },
+    {
+      "word": "chauffante",
+      "confidence": 0.8
+    },
+    {
+      "word": "cheveux",
+      "confidence": 0.85
+    },
+    {
+      "word": "chic",
+      "confidence": 0.8
+    },
+    {
+      "word": "clipsable",
+      "confidence": 0.8
+    },
+    {
+      "word": "comfy",
+      "confidence": 0.85
+    },
+    {
+      "word": "con",
+      "confidence": 0.85
+    },
+    {
+      "word": "confortable",
+      "confidence": 0.85
+    },
+    {
+      "word": "connecté",
+      "confidence": 0.85
+    },
+    {
+      "word": "control",
+      "confidence": 0.85
+    },
+    {
+      "word": "coton",
+      "confidence": 0.9
+    },
+    {
+      "word": "cotton",
+      "confidence": 0.9
+    },
+    {
+      "word": "couleur",
+      "confidence": 0.8
+    },
+    {
+      "word": "court",
+      "confidence": 0.8
+    },
+    {
+      "word": "cozy",
+      "confidence": 0.8
+    },
+    {
+      "word": "cuero",
+      "confidence": 0.8
+    },
+    {
+      "word": "cuir",
+      "confidence": 0.8
+    },
+    {
+      "word": "cute",
+      "confidence": 0.8
+    },
+    {
+      "word": "céramique",
+      "confidence": 0.8
+    },
+    {
+      "word": "de",
+      "confidence": 0.85
+    },
+    {
+      "word": "del",
+      "confidence": 0.85
+    },
+    {
+      "word": "demi",
+      "confidence": 0.8
+    },
+    {
+      "word": "dicke",
+      "confidence": 0.8
+    },
+    {
+      "word": "die",
+      "confidence": 0.85
+    },
+    {
+      "word": "digital",
+      "confidence": 0.9
+    },
+    {
+      "word": "dioptrie",
+      "confidence": 0.8
+    },
+    {
+      "word": "double",
+      "confidence": 0.8
+    },
+    {
+      "word": "doublé",
+      "confidence": 0.8
+    },
+    {
+      "word": "douce",
+      "confidence": 0.8
+    },
+    {
+      "word": "dry",
+      "confidence": 0.8
+    },
+    {
+      "word": "du",
+      "confidence": 0.85
+    },
+    {
+      "word": "dual",
+      "confidence": 0.8
+    },
+    {
+      "word": "duro",
+      "confidence": 0.8
+    },
+    {
+      "word": "dvd",
+      "confidence": 0.9
+    },
+    {
+      "word": "el",
+      "confidence": 0.85
+    },
+    {
+      "word": "elastique",
+      "confidence": 0.8
+    },
+    {
+      "word": "elastische",
+      "confidence": 0.8
+    },
+    {
+      "word": "electric",
+      "confidence": 0.8
+    },
+    {
+      "word": "electrico",
+      "confidence": 0.8
+    },
+    {
+      "word": "electrique",
+      "confidence": 0.9
+    },
+    {
+      "word": "elektrisch",
+      "confidence": 0.9
+    },
+    {
+      "word": "elektrische",
+      "confidence": 0.9
+    },
+    {
+      "word": "eléctrica",
+      "confidence": 0.85
+    },
+    {
+      "word": "embroidery",
+      "confidence": 0.8
+    },
+    {
+      "word": "en",
+      "confidence": 0.85
+    },
+    {
+      "word": "epais",
+      "confidence": 0.8
+    },
+    {
+      "word": "ergonomische",
+      "confidence": 0.8
+    },
+    {
+      "word": "et",
+      "confidence": 0.85
+    },
+    {
+      "word": "etros",
+      "confidence": 0.8
+    },
+    {
+      "word": "extensible",
+      "confidence": 0.8
+    },
+    {
+      "word": "exterieur",
+      "confidence": 0.8
+    },
+    {
+      "word": "externo",
+      "confidence": 0.8
+    },
+    {
+      "word": "fabrics",
+      "confidence": 0.85
+    },
+    {
+      "word": "facial",
+      "confidence": 0.85
+    },
+    {
+      "word": "fell",
+      "confidence": 0.8
+    },
+    {
+      "word": "fermentation",
+      "confidence": 0.8
+    },
+    {
+      "word": "fermeture",
+      "confidence": 0.8
+    },
+    {
+      "word": "ferngesteuert",
+      "confidence": 0.85
+    },
+    {
+      "word": "ferngesteuertes",
+      "confidence": 0.8
+    },
+    {
+      "word": "fil",
+      "confidence": 0.85
+    },
+    {
+      "word": "firm",
+      "confidence": 0.8
+    },
+    {
+      "word": "fixation",
+      "confidence": 0.8
+    },
+    {
+      "word": "fleece",
+      "confidence": 0.9
+    },
+    {
+      "word": "fleece-lined",
+      "confidence": 0.8
+    },
+    {
+      "word": "flex",
+      "confidence": 0.8
+    },
+    {
+      "word": "flexible",
+      "confidence": 0.85
+    },
+    {
+      "word": "flexibles",
+      "confidence": 0.81
+    },
+    {
+      "word": "fluffy",
+      "confidence": 0.8
+    },
+    {
+      "word": "foam",
+      "confidence": 0.85
+    },
+    {
+      "word": "folding",
+      "confidence": 0.8
+    },
+    {
+      "word": "for",
+      "confidence": 0.85
+    },
+    {
+      "word": "formend",
+      "confidence": 0.8
+    },
+    {
+      "word": "function",
+      "confidence": 0.8
+    },
+    {
+      "word": "für",
+      "confidence": 0.85
+    },
+    {
+      "word": "gefütterte",
+      "confidence": 0.9
+    },
+    {
+      "word": "gel",
+      "confidence": 0.85
+    },
+    {
+      "word": "gepolsterte",
+      "confidence": 0.8
+    },
+    {
+      "word": "gerippte",
+      "confidence": 0.8
+    },
+    {
+      "word": "gr",
+      "confidence": 0.85
+    },
+    {
+      "word": "grande",
+      "confidence": 0.8
+    },
+    {
+      "word": "gro",
+      "confidence": 0.85
+    },
+    {
+      "word": "grossissante",
+      "confidence": 0.8
+    },
+    {
+      "word": "habillé",
+      "confidence": 0.9
+    },
+    {
+      "word": "hair",
+      "confidence": 0.85
+    },
+    {
+      "word": "haute",
+      "confidence": 0.8
+    },
+    {
+      "word": "hdmi",
+      "confidence": 0.9
+    },
+    {
+      "word": "heavy",
+      "confidence": 0.8
+    },
+    {
+      "word": "high",
+      "confidence": 0.8
+    },
+    {
+      "word": "high waist",
+      "confidence": 0.9
+    },
+    {
+      "word": "hohe taille",
+      "confidence": 0.9
+    },
+    {
+      "word": "hot",
+      "confidence": 0.8
+    },
+    {
+      "word": "imprimé",
+      "confidence": 0.8
+    },
+    {
+      "word": "in",
+      "confidence": 0.85
+    },
+    {
+      "word": "inalambricos",
+      "confidence": 0.85
+    },
+    {
+      "word": "inalámbrica",
+      "confidence": 0.85
+    },
+    {
+      "word": "infrarouge",
+      "confidence": 0.8
+    },
+    {
+      "word": "inteligente",
+      "confidence": 0.8
+    },
+    {
+      "word": "intégrée",
+      "confidence": 0.8
+    },
+    {
+      "word": "ionique",
+      "confidence": 0.8
+    },
+    {
+      "word": "it",
+      "confidence": 0.85
+    },
+    {
+      "word": "kabellos",
+      "confidence": 0.85
+    },
+    {
+      "word": "kariert",
+      "confidence": 0.8
+    },
+    {
+      "word": "king",
+      "confidence": 0.8
+    },
+    {
+      "word": "kit",
+      "confidence": 0.85
+    },
+    {
+      "word": "kleine",
+      "confidence": 0.85
+    },
+    {
+      "word": "kleiner",
+      "confidence": 0.8
+    },
+    {
+      "word": "klett",
+      "confidence": 0.85
+    },
+    {
+      "word": "km",
+      "confidence": 0.8
+    },
+    {
+      "word": "kurz",
+      "confidence": 0.8
+    },
+    {
+      "word": "kurzarm",
+      "confidence": 0.8
+    },
+    {
+      "word": "kurze",
+      "confidence": 0.85
+    },
+    {
+      "word": "kurzgr",
+      "confidence": 0.9
+    },
+    {
+      "word": "la",
+      "confidence": 0.85
+    },
+    {
+      "word": "laine",
+      "confidence": 0.9
+    },
+    {
+      "word": "lang",
+      "confidence": 0.8
+    },
+    {
+      "word": "langarm",
+      "confidence": 0.8
+    },
+    {
+      "word": "large",
+      "confidence": 0.85
+    },
+    {
+      "word": "largo",
+      "confidence": 0.8
+    },
+    {
+      "word": "le",
+      "confidence": 0.85
+    },
+    {
+      "word": "led",
+      "confidence": 0.9
+    },
+    {
+      "word": "leder",
+      "confidence": 0.8
+    },
+    {
+      "word": "lederoptik",
+      "confidence": 0.9
+    },
+    {
+      "word": "leg",
+      "confidence": 0.8
+    },
+    {
+      "word": "leger",
+      "confidence": 0.85
+    },
+    {
+      "word": "legere",
+      "confidence": 0.8
+    },
+    {
+      "word": "leo",
+      "confidence": 0.8
+    },
+    {
+      "word": "les",
+      "confidence": 0.85
+    },
+    {
+      "word": "lever",
+      "confidence": 0.8
+    },
+    {
+      "word": "light",
+      "confidence": 0.8
+    },
+    {
+      "word": "lined",
+      "confidence": 0.85
+    },
+    {
+      "word": "linen",
+      "confidence": 0.8
+    },
+    {
+      "word": "lissante",
+      "confidence": 0.8
+    },
+    {
+      "word": "long",
+      "confidence": 0.8
+    },
+    {
+      "word": "loose fit",
+      "confidence": 0.9
+    },
+    {
+      "word": "lot",
+      "confidence": 0.85
+    },
+    {
+      "word": "low",
+      "confidence": 0.8
+    },
+    {
+      "word": "low waist",
+      "confidence": 0.9
+    },
+    {
+      "word": "lumiere",
+      "confidence": 0.8
+    },
+    {
+      "word": "lumineux",
+      "confidence": 0.8
+    },
+    {
+      "word": "lycra",
+      "confidence": 0.8
+    },
+    {
+      "word": "légère",
+      "confidence": 0.85
+    },
+    {
+      "word": "magnetique",
+      "confidence": 0.85
+    },
+    {
+      "word": "magnétique",
+      "confidence": 0.85
+    },
+    {
+      "word": "magnétiques",
+      "confidence": 0.8
+    },
+    {
+      "word": "manual",
+      "confidence": 0.8
+    },
+    {
+      "word": "matcha",
+      "confidence": 0.85
+    },
+    {
+      "word": "medium",
+      "confidence": 0.9
+    },
+    {
+      "word": "memory foam",
+      "confidence": 0.9
+    },
+    {
+      "word": "microfibra",
+      "confidence": 0.8
+    },
+    {
+      "word": "mini",
+      "confidence": 0.8
+    },
+    {
+      "word": "mit",
+      "confidence": 0.85
+    },
+    {
+      "word": "molletonné",
+      "confidence": 0.8
+    },
+    {
+      "word": "multiusos",
+      "confidence": 0.8
+    },
+    {
+      "word": "murale",
+      "confidence": 0.85
+    },
+    {
+      "word": "ni",
+      "confidence": 0.85
+    },
+    {
+      "word": "numerique",
+      "confidence": 0.8
+    },
+    {
+      "word": "numérique",
+      "confidence": 0.9
+    },
+    {
+      "word": "of",
+      "confidence": 0.85
+    },
+    {
+      "word": "on",
+      "confidence": 0.85
+    },
+    {
+      "word": "opaque",
+      "confidence": 0.8
+    },
+    {
+      "word": "open ear",
+      "confidence": 0.9
+    },
+    {
+      "word": "or",
+      "confidence": 0.85
+    },
+    {
+      "word": "original",
+      "confidence": 0.8
+    },
+    {
+      "word": "ortopedico",
+      "confidence": 0.8
+    },
+    {
+      "word": "ortopédicas",
+      "confidence": 0.8
+    },
+    {
+      "word": "os",
+      "confidence": 0.85
+    },
+    {
+      "word": "ovale",
+      "confidence": 0.8
+    },
+    {
+      "word": "oversize",
+      "confidence": 0.8
+    },
+    {
+      "word": "pack",
+      "confidence": 0.8
+    },
+    {
+      "word": "padding",
+      "confidence": 0.8
+    },
+    {
+      "word": "pain",
+      "confidence": 0.8
+    },
+    {
+      "word": "para",
+      "confidence": 0.85
+    },
+    {
+      "word": "pc",
+      "confidence": 0.9
+    },
+    {
+      "word": "personalisiert",
+      "confidence": 0.85
+    },
+    {
+      "word": "personnalisé",
+      "confidence": 0.8
+    },
+    {
+      "word": "petit",
+      "confidence": 0.8
+    },
+    {
+      "word": "petite",
+      "confidence": 0.85
+    },
+    {
+      "word": "photo",
+      "confidence": 0.8
+    },
+    {
+      "word": "plastico",
+      "confidence": 0.8
+    },
+    {
+      "word": "plastique",
+      "confidence": 0.8
+    },
+    {
+      "word": "poche",
+      "confidence": 0.8
+    },
+    {
+      "word": "pockets",
+      "confidence": 0.85
+    },
+    {
+      "word": "polaire",
+      "confidence": 0.9
+    },
+    {
+      "word": "polster",
+      "confidence": 0.85
+    },
+    {
+      "word": "polyester",
+      "confidence": 0.8
+    },
+    {
+      "word": "portable",
+      "confidence": 0.9
+    },
+    {
+      "word": "portatil",
+      "confidence": 0.9
+    },
+    {
+      "word": "porte",
+      "confidence": 0.8
+    },
+    {
+      "word": "pouces",
+      "confidence": 0.85
+    },
+    {
+      "word": "pour",
+      "confidence": 0.85
+    },
+    {
+      "word": "power",
+      "confidence": 0.8
+    },
+    {
+      "word": "professional",
+      "confidence": 0.8
+    },
+    {
+      "word": "programmable",
+      "confidence": 0.8
+    },
+    {
+      "word": "queen",
+      "confidence": 0.9
+    },
+    {
+      "word": "qui",
+      "confidence": 0.85
+    },
+    {
+      "word": "radiocommandée",
+      "confidence": 0.8
+    },
+    {
+      "word": "rafraichissant",
+      "confidence": 0.8
+    },
+    {
+      "word": "rafraichissante",
+      "confidence": 0.8
+    },
+    {
+      "word": "rapide",
+      "confidence": 0.85
+    },
+    {
+      "word": "repose",
+      "confidence": 0.8
+    },
+    {
+      "word": "rer",
+      "confidence": 0.85
+    },
+    {
+      "word": "rotating",
+      "confidence": 0.8
+    },
+    {
+      "word": "rotative",
+      "confidence": 0.8
+    },
+    {
+      "word": "sans",
+      "confidence": 0.85
+    },
+    {
+      "word": "sculptant",
+      "confidence": 0.8
+    },
+    {
+      "word": "sd",
+      "confidence": 0.8
+    },
+    {
+      "word": "se",
+      "confidence": 0.85
+    },
+    {
+      "word": "seamless",
+      "confidence": 0.8
+    },
+    {
+      "word": "seche",
+      "confidence": 0.85
+    },
+    {
+      "word": "seconde",
+      "confidence": 0.8
+    },
+    {
+      "word": "seguridad",
+      "confidence": 0.8
+    },
+    {
+      "word": "sexy",
+      "confidence": 0.8
+    },
+    {
+      "word": "shape",
+      "confidence": 0.85
+    },
+    {
+      "word": "shaping",
+      "confidence": 0.85
+    },
+    {
+      "word": "sheer",
+      "confidence": 0.8
+    },
+    {
+      "word": "short",
+      "confidence": 0.8
+    },
+    {
+      "word": "short sleeve",
+      "confidence": 0.9
+    },
+    {
+      "word": "silencieux",
+      "confidence": 0.85
+    },
+    {
+      "word": "size",
+      "confidence": 0.8
+    },
+    {
+      "word": "sleeves",
+      "confidence": 0.9
+    },
+    {
+      "word": "slim",
+      "confidence": 0.8
+    },
+    {
+      "word": "slim fit",
+      "confidence": 0.9
+    },
+    {
+      "word": "sm",
+      "confidence": 0.8
+    },
+    {
+      "word": "small",
+      "confidence": 0.85
+    },
+    {
+      "word": "smart",
+      "confidence": 0.8
+    },
+    {
+      "word": "soft",
+      "confidence": 0.8
+    },
+    {
+      "word": "solutions",
+      "confidence": 0.8
+    },
+    {
+      "word": "soufflant",
+      "confidence": 0.85
+    },
+    {
+      "word": "soufflante",
+      "confidence": 0.85
+    },
+    {
+      "word": "sous lit",
+      "confidence": 0.9
+    },
+    {
+      "word": "stitch",
+      "confidence": 0.8
+    },
+    {
+      "word": "straps",
+      "confidence": 0.85
+    },
+    {
+      "word": "sèche",
+      "confidence": 0.8
+    },
+    {
+      "word": "taille",
+      "confidence": 0.8
+    },
+    {
+      "word": "taille basse",
+      "confidence": 0.9
+    },
+    {
+      "word": "taille haute",
+      "confidence": 0.9
+    },
+    {
+      "word": "tall",
+      "confidence": 0.8
+    },
+    {
+      "word": "taschen",
+      "confidence": 0.85
+    },
+    {
+      "word": "telecommandee",
+      "confidence": 0.85
+    },
+    {
+      "word": "telecommandé",
+      "confidence": 0.85
+    },
+    {
+      "word": "termica",
+      "confidence": 0.8
+    },
+    {
+      "word": "the",
+      "confidence": 0.85
+    },
+    {
+      "word": "thermique",
+      "confidence": 0.8
+    },
+    {
+      "word": "thermiques",
+      "confidence": 0.8
+    },
+    {
+      "word": "thick",
+      "confidence": 0.85
+    },
+    {
+      "word": "tissu",
+      "confidence": 0.8
+    },
+    {
+      "word": "to",
+      "confidence": 0.85
+    },
+    {
+      "word": "transparent",
+      "confidence": 0.8
+    },
+    {
+      "word": "transparente",
+      "confidence": 0.8
+    },
+    {
+      "word": "tummy",
+      "confidence": 0.8
+    },
+    {
+      "word": "tv",
+      "confidence": 0.9
+    },
+    {
+      "word": "télécommandée",
+      "confidence": 0.9
+    },
+    {
+      "word": "und",
+      "confidence": 0.85
+    },
+    {
+      "word": "up",
+      "confidence": 0.85
+    },
+    {
+      "word": "usb",
+      "confidence": 0.9
+    },
+    {
+      "word": "v neck",
+      "confidence": 0.9
+    },
+    {
+      "word": "ventre",
+      "confidence": 0.8
+    },
+    {
+      "word": "verschluss",
+      "confidence": 0.8
+    },
+    {
+      "word": "vibration",
+      "confidence": 0.85
+    },
+    {
+      "word": "vinyl",
+      "confidence": 0.8
+    },
+    {
+      "word": "virtual",
+      "confidence": 0.8
+    },
+    {
+      "word": "vitesse",
+      "confidence": 0.8
+    },
+    {
+      "word": "vue",
+      "confidence": 0.85
+    },
+    {
+      "word": "warme",
+      "confidence": 0.8
+    },
+    {
+      "word": "water",
+      "confidence": 0.8
+    },
+    {
+      "word": "watts",
+      "confidence": 0.9
+    },
+    {
+      "word": "wei",
+      "confidence": 0.85
+    },
+    {
+      "word": "weiche",
+      "confidence": 0.8
+    },
+    {
+      "word": "weite",
+      "confidence": 0.8
+    },
+    {
+      "word": "wide",
+      "confidence": 0.8
+    },
+    {
+      "word": "wifi",
+      "confidence": 0.9
+    },
+    {
+      "word": "wireless",
+      "confidence": 0.8
+    },
+    {
+      "word": "with",
+      "confidence": 0.85
+    },
+    {
+      "word": "xxs",
+      "confidence": 0.85
+    },
+    {
+      "word": "zipper",
+      "confidence": 0.9
+    },
+    {
+      "word": "à roulettes",
+      "confidence": 0.9
+    },
+    {
+      "word": "éducatif",
+      "confidence": 0.8
+    },
+    {
+      "word": "électrique",
+      "confidence": 0.9
+    },
+    {
+      "word": "épais",
+      "confidence": 0.8
+    },
+    {
+      "word": "きい",
+      "confidence": 0.85
+    },
+    {
+      "word": "きめ",
+      "confidence": 0.85
+    },
+    {
+      "word": "さめ",
+      "confidence": 0.85
+    },
+    {
+      "word": "たたみ",
+      "confidence": 0.85
+    },
+    {
+      "word": "つける",
+      "confidence": 0.85
+    },
+    {
+      "word": "インチ",
+      "confidence": 0.9
+    },
+    {
+      "word": "サイズ",
+      "confidence": 0.8
+    },
+    {
+      "word": "ショルダー",
+      "confidence": 0.85
+    },
+    {
+      "word": "ショート",
+      "confidence": 0.8
+    },
+    {
+      "word": "タイプ",
+      "confidence": 0.8
+    },
+    {
+      "word": "ナイロン",
+      "confidence": 0.9
+    },
+    {
+      "word": "ハイドレーション",
+      "confidence": 0.9
+    },
+    {
+      "word": "パソコン",
+      "confidence": 0.85
+    },
+    {
+      "word": "ファスナー",
+      "confidence": 0.85
+    },
+    {
+      "word": "ポケット",
+      "confidence": 0.9
+    },
+    {
+      "word": "リットル",
+      "confidence": 0.9
+    },
+    {
+      "word": "仕切",
+      "confidence": 0.85
+    },
+    {
+      "word": "半袖",
+      "confidence": 0.8
+    },
+    {
+      "word": "収納",
+      "confidence": 0.85
+    },
+    {
+      "word": "大型",
+      "confidence": 0.8
+    },
+    {
+      "word": "手提",
+      "confidence": 0.85
+    },
+    {
+      "word": "無地",
+      "confidence": 0.8
+    },
+    {
+      "word": "重量",
+      "confidence": 1.0
+    },
+    {
+      "word": "madera",
+      "confidence": 0.85
+    },
+    {
+      "word": "acero",
+      "confidence": 0.85
+    },
+    {
+      "word": "silicona",
+      "confidence": 0.85
+    },
+    {
+      "word": "agua",
+      "confidence": 0.85
+    },
+    {
+      "word": "nariz",
+      "confidence": 0.85
+    },
+    {
+      "word": "juanete",
+      "confidence": 0.85
+    },
+    {
+      "word": "fascitis",
+      "confidence": 0.85
+    },
+    {
+      "word": "cuello",
+      "confidence": 0.85
+    },
+    {
+      "word": "interior",
+      "confidence": 0.85
+    },
+    {
+      "word": "burbujas",
+      "confidence": 0.85
+    },
+    {
+      "word": "estrellas",
+      "confidence": 0.85
+    },
+    {
+      "word": "presion",
+      "confidence": 0.85
+    },
+    {
+      "word": "腹巻き",
+      "confidence": 0.9
+    },
+    {
+      "word": "大容量",
+      "confidence": 0.9
+    },
+    {
+      "word": "軽量",
+      "confidence": 0.9
+    },
+    {
+      "word": "肩掛け",
+      "confidence": 0.85
+    },
+    {
+      "word": "小型",
+      "confidence": 0.85
+    },
+    {
+      "word": "畳み",
+      "confidence": 0.85
+    }
+  ]
+}

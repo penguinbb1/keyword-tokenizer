@@ -1,0 +1,466 @@
+{
+  "name": "全球品牌词典",
+  "description": "国际通用品牌名称",
+  "entries": [
+    {
+      "word": "Apple",
+      "confidence": 1.0
+    },
+    {
+      "word": "Samsung",
+      "confidence": 1.0
+    },
+    {
+      "word": "Nike",
+      "confidence": 1.0
+    },
+    {
+      "word": "Adidas",
+      "confidence": 1.0
+    },
+    {
+      "word": "New Balance",
+      "confidence": 1.0
+    },
+    {
+      "word": "Puma",
+      "confidence": 1.0
+    },
+    {
+      "word": "Under Armour",
+      "confidence": 1.0
+    },
+    {
+      "word": "Sony",
+      "confidence": 1.0
+    },
+    {
+      "word": "LG",
+      "confidence": 1.0
+    },
+    {
+      "word": "Dell",
+      "confidence": 1.0
+    },
+    {
+      "word": "HP",
+      "confidence": 1.0
+    },
+    {
+      "word": "Lenovo",
+      "confidence": 1.0
+    },
+    {
+      "word": "ASUS",
+      "confidence": 1.0
+    },
+    {
+      "word": "Acer",
+      "confidence": 1.0
+    },
+    {
+      "word": "Microsoft",
+      "confidence": 1.0
+    },
+    {
+      "word": "Google",
+      "confidence": 1.0
+    },
+    {
+      "word": "Amazon",
+      "confidence": 1.0
+    },
+    {
+      "word": "Canon",
+      "confidence": 1.0
+    },
+    {
+      "word": "Nikon",
+      "confidence": 1.0
+    },
+    {
+      "word": "Panasonic",
+      "confidence": 1.0
+    },
+    {
+      "word": "Philips",
+      "confidence": 1.0
+    },
+    {
+      "word": "Bosch",
+      "confidence": 1.0
+    },
+    {
+      "word": "Siemens",
+      "confidence": 1.0
+    },
+    {
+      "word": "Louis Vuitton",
+      "confidence": 1.0
+    },
+    {
+      "word": "Gucci",
+      "confidence": 1.0
+    },
+    {
+      "word": "Chanel",
+      "confidence": 1.0
+    },
+    {
+      "word": "Hermes",
+      "confidence": 1.0
+    },
+    {
+      "word": "Prada",
+      "confidence": 1.0
+    },
+    {
+      "word": "Zara",
+      "confidence": 1.0
+    },
+    {
+      "word": "H&M",
+      "confidence": 1.0
+    },
+    {
+      "word": "Uniqlo",
+      "confidence": 1.0
+    },
+    {
+      "word": "Coca-Cola",
+      "confidence": 1.0
+    },
+    {
+      "word": "Pepsi",
+      "confidence": 1.0
+    },
+    {
+      "word": "Nestle",
+      "confidence": 1.0
+    },
+    {
+      "word": "Toyota",
+      "confidence": 1.0
+    },
+    {
+      "word": "Honda",
+      "confidence": 1.0
+    },
+    {
+      "word": "BMW",
+      "confidence": 1.0
+    },
+    {
+      "word": "Mercedes-Benz",
+      "confidence": 1.0
+    },
+    {
+      "word": "Audi",
+      "confidence": 1.0
+    },
+    {
+      "word": "Volkswagen",
+      "confidence": 1.0
+    },
+    {
+      "word": "tnnzeet",
+      "confidence": 0.95,
+      "note": "品牌"
+    },
+    {
+      "word": "haimont",
+      "confidence": 0.9,
+      "note": "品牌"
+    },
+    {
+      "word": "サロモン",
+      "confidence": 0.95,
+      "note": "Salomon品牌"
+    },
+    {
+      "word": "nintendo",
+      "confidence": 0.95,
+      "note": "任天堂"
+    },
+    {
+      "word": "モンベル",
+      "confidence": 0.85
+    },
+    {
+      "word": "ナイキ",
+      "confidence": 0.9
+    },
+    {
+      "word": "ノース",
+      "confidence": 0.8
+    },
+    {
+      "word": "ブランド",
+      "confidence": 0.9
+    },
+    {
+      "word": "ソロモン",
+      "confidence": 0.85
+    },
+    {
+      "word": "アークテリクス",
+      "confidence": 0.9
+    },
+    {
+      "word": "日本",
+      "confidence": 0.8
+    },
+    {
+      "word": "gonso",
+      "confidence": 0.9
+    },
+    {
+      "word": "bitcoin",
+      "confidence": 0.85
+    },
+    {
+      "word": "atopskins",
+      "confidence": 0.9
+    },
+    {
+      "word": "tinzeet",
+      "confidence": 0.85
+    },
+    {
+      "word": "calzedonia",
+      "confidence": 0.9
+    },
+    {
+      "word": "camelbak",
+      "confidence": 0.9
+    },
+    {
+      "word": "vaude",
+      "confidence": 0.9
+    },
+    {
+      "word": "beurer",
+      "confidence": 0.9
+    },
+    {
+      "word": "leafigure",
+      "confidence": 0.9
+    },
+    {
+      "word": "dyson",
+      "confidence": 0.9
+    },
+    {
+      "word": "sportneer",
+      "confidence": 0.8
+    },
+    {
+      "word": "campsnail",
+      "confidence": 0.8
+    },
+    {
+      "word": "ffler",
+      "confidence": 0.8
+    },
+    {
+      "word": "gore",
+      "confidence": 0.8
+    },
+    {
+      "word": "rockbros",
+      "confidence": 0.85
+    },
+    {
+      "word": "odlo",
+      "confidence": 0.85
+    },
+    {
+      "word": "amiyoyo",
+      "confidence": 0.8
+    },
+    {
+      "word": "cmp",
+      "confidence": 0.9
+    },
+    {
+      "word": "crz",
+      "confidence": 0.9
+    },
+    {
+      "word": "uplayteck",
+      "confidence": 0.9
+    },
+    {
+      "word": "nicewin",
+      "confidence": 0.9
+    },
+    {
+      "word": "babyliss",
+      "confidence": 0.9
+    },
+    {
+      "word": "maker",
+      "confidence": 0.9
+    },
+    {
+      "word": "webeauty",
+      "confidence": 0.85
+    },
+    {
+      "word": "funko",
+      "confidence": 0.9
+    },
+    {
+      "word": "revlon",
+      "confidence": 0.9
+    },
+    {
+      "word": "loreal",
+      "confidence": 0.9
+    },
+    {
+      "word": "porsche",
+      "confidence": 0.95
+    },
+    {
+      "word": "dreame",
+      "confidence": 0.9
+    },
+    {
+      "word": "shark",
+      "confidence": 0.8
+    },
+    {
+      "word": "lego",
+      "confidence": 0.9
+    },
+    {
+      "word": "barbie",
+      "confidence": 0.9
+    },
+    {
+      "word": "pabobo",
+      "confidence": 0.85
+    },
+    {
+      "word": "theragun",
+      "confidence": 0.85
+    },
+    {
+      "word": "esoft",
+      "confidence": 0.75
+    },
+    {
+      "word": "mier",
+      "confidence": 0.75
+    },
+    {
+      "word": "playdoh",
+      "confidence": 0.8
+    },
+    {
+      "word": "manilla",
+      "confidence": 0.75
+    },
+    {
+      "word": "boojo",
+      "confidence": 0.75
+    },
+    {
+      "word": "skims",
+      "confidence": 0.8
+    },
+    {
+      "word": "lululemon",
+      "confidence": 0.9
+    },
+    {
+      "word": "columbia",
+      "confidence": 0.9
+    },
+    {
+      "word": "showitty",
+      "confidence": 0.75
+    },
+    {
+      "word": "rivian",
+      "confidence": 0.9
+    },
+    {
+      "word": "igloo",
+      "confidence": 0.8
+    },
+    {
+      "word": "tesla",
+      "confidence": 0.9
+    },
+    {
+      "word": "stanley",
+      "confidence": 0.85
+    },
+    {
+      "word": "kraft",
+      "confidence": 0.75
+    },
+    {
+      "word": "hanes",
+      "confidence": 0.85
+    },
+    {
+      "word": "iphone",
+      "confidence": 0.9
+    },
+    {
+      "word": "osea",
+      "confidence": 0.75
+    },
+    {
+      "word": "galaxias",
+      "confidence": 0.8
+    },
+    {
+      "word": "rca",
+      "confidence": 0.9
+    },
+    {
+      "word": "xbox",
+      "confidence": 0.9
+    },
+    {
+      "word": "mac",
+      "confidence": 0.9
+    },
+    {
+      "word": "truper",
+      "confidence": 0.9
+    },
+    {
+      "word": "nespresso",
+      "confidence": 0.9
+    },
+    {
+      "word": "fisher",
+      "confidence": 0.9
+    },
+    {
+      "word": "baofeng",
+      "confidence": 0.9
+    },
+    {
+      "word": "tulip",
+      "confidence": 0.8
+    },
+    {
+      "word": "raganet",
+      "confidence": 0.85
+    },
+    {
+      "word": "ugreen",
+      "confidence": 0.9
+    },
+    {
+      "word": "disney",
+      "confidence": 0.9
+    }
+  ]
+}

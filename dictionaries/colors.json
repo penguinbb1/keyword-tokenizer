@@ -1,0 +1,278 @@
+{
+  "name": "颜色词典",
+  "description": "颜色相关词汇",
+  "entries": [
+    {
+      "word": "beige",
+      "confidence": 0.95
+    },
+    {
+      "word": "black",
+      "confidence": 0.95
+    },
+    {
+      "word": "blanc",
+      "confidence": 0.95
+    },
+    {
+      "word": "blancos",
+      "confidence": 0.9
+    },
+    {
+      "word": "blau",
+      "confidence": 0.95
+    },
+    {
+      "word": "blauer",
+      "confidence": 0.85
+    },
+    {
+      "word": "bleu",
+      "confidence": 0.95
+    },
+    {
+      "word": "blue",
+      "confidence": 0.95
+    },
+    {
+      "word": "braun",
+      "confidence": 0.95
+    },
+    {
+      "word": "braune",
+      "confidence": 0.9
+    },
+    {
+      "word": "brauner",
+      "confidence": 0.85
+    },
+    {
+      "word": "braunes",
+      "confidence": 0.8
+    },
+    {
+      "word": "brown",
+      "confidence": 0.95
+    },
+    {
+      "word": "bunt",
+      "confidence": 0.8
+    },
+    {
+      "word": "bunte",
+      "confidence": 0.8
+    },
+    {
+      "word": "color",
+      "confidence": 0.9
+    },
+    {
+      "word": "colored",
+      "confidence": 0.85
+    },
+    {
+      "word": "cream",
+      "confidence": 0.8
+    },
+    {
+      "word": "dark",
+      "confidence": 0.9
+    },
+    {
+      "word": "dunkelblau",
+      "confidence": 0.9
+    },
+    {
+      "word": "gelb",
+      "confidence": 0.95
+    },
+    {
+      "word": "gold",
+      "confidence": 0.9
+    },
+    {
+      "word": "grau",
+      "confidence": 0.95
+    },
+    {
+      "word": "green",
+      "confidence": 0.95
+    },
+    {
+      "word": "gris",
+      "confidence": 0.95
+    },
+    {
+      "word": "grün",
+      "confidence": 0.95
+    },
+    {
+      "word": "hautfarben",
+      "confidence": 0.85
+    },
+    {
+      "word": "hautfarbener",
+      "confidence": 0.85
+    },
+    {
+      "word": "hei",
+      "confidence": 0.8
+    },
+    {
+      "word": "ivory",
+      "confidence": 0.8
+    },
+    {
+      "word": "klein",
+      "confidence": 0.85
+    },
+    {
+      "word": "leopard",
+      "confidence": 0.9
+    },
+    {
+      "word": "leoparden",
+      "confidence": 0.8
+    },
+    {
+      "word": "lune",
+      "confidence": 0.85
+    },
+    {
+      "word": "léopard",
+      "confidence": 0.8
+    },
+    {
+      "word": "marron",
+      "confidence": 0.95
+    },
+    {
+      "word": "moutarde",
+      "confidence": 0.85
+    },
+    {
+      "word": "navy",
+      "confidence": 0.95
+    },
+    {
+      "word": "negra",
+      "confidence": 0.9
+    },
+    {
+      "word": "negro",
+      "confidence": 0.95
+    },
+    {
+      "word": "noir",
+      "confidence": 0.95
+    },
+    {
+      "word": "noire",
+      "confidence": 0.9
+    },
+    {
+      "word": "orange",
+      "confidence": 0.95
+    },
+    {
+      "word": "oro",
+      "confidence": 0.8
+    },
+    {
+      "word": "pink",
+      "confidence": 0.95
+    },
+    {
+      "word": "pinke",
+      "confidence": 0.85
+    },
+    {
+      "word": "purple",
+      "confidence": 0.95
+    },
+    {
+      "word": "red",
+      "confidence": 0.95
+    },
+    {
+      "word": "rosa",
+      "confidence": 0.95
+    },
+    {
+      "word": "rose",
+      "confidence": 0.95
+    },
+    {
+      "word": "rot",
+      "confidence": 0.95
+    },
+    {
+      "word": "rote",
+      "confidence": 0.9
+    },
+    {
+      "word": "rouge",
+      "confidence": 0.95
+    },
+    {
+      "word": "sage",
+      "confidence": 0.8
+    },
+    {
+      "word": "schwarz",
+      "confidence": 0.95
+    },
+    {
+      "word": "schwarze",
+      "confidence": 0.9
+    },
+    {
+      "word": "schwarzer",
+      "confidence": 0.9
+    },
+    {
+      "word": "silver",
+      "confidence": 0.9
+    },
+    {
+      "word": "sol",
+      "confidence": 0.8
+    },
+    {
+      "word": "soleil",
+      "confidence": 0.85
+    },
+    {
+      "word": "vert",
+      "confidence": 0.95
+    },
+    {
+      "word": "violet",
+      "confidence": 0.9
+    },
+    {
+      "word": "weiss",
+      "confidence": 0.95
+    },
+    {
+      "word": "weisse",
+      "confidence": 0.85
+    },
+    {
+      "word": "white",
+      "confidence": 0.95
+    },
+    {
+      "word": "yellow",
+      "confidence": 0.95
+    },
+    {
+      "word": "ピンク",
+      "confidence": 0.95
+    },
+    {
+      "word": "赤色",
+      "confidence": 0.85
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "name": "卖点词典",
+  "description": "产品卖点特性",
+  "entries": [
+    {
+      "word": "accroche",
+      "confidence": 0.8
+    },
+    {
+      "word": "antiarrugas",
+      "confidence": 0.8
+    },
+    {
+      "word": "antiderrapantes",
+      "confidence": 0.8
+    },
+    {
+      "word": "atmungsaktiv",
+      "confidence": 0.95
+    },
+    {
+      "word": "bauchweg",
+      "confidence": 0.85
+    },
+    {
+      "word": "blickdicht",
+      "confidence": 0.9
+    },
+    {
+      "word": "blickdichte",
+      "confidence": 0.8
+    },
+    {
+      "word": "chaud",
+      "confidence": 0.95
+    },
+    {
+      "word": "clearance",
+      "confidence": 0.8
+    },
+    {
+      "word": "compact",
+      "confidence": 0.95
+    },
+    {
+      "word": "compression",
+      "confidence": 0.95
+    },
+    {
+      "word": "cooling",
+      "confidence": 0.8
+    },
+    {
+      "word": "correction",
+      "confidence": 0.8
+    },
+    {
+      "word": "dri",
+      "confidence": 0.8
+    },
+    {
+      "word": "drifit",
+      "confidence": 0.85
+    },
+    {
+      "word": "elastic",
+      "confidence": 0.95
+    },
+    {
+      "word": "energiesparend",
+      "confidence": 0.9
+    },
+    {
+      "word": "ergonomico",
+      "confidence": 0.8
+    },
+    {
+      "word": "fit",
+      "confidence": 0.85
+    },
+    {
+      "word": "flash",
+      "confidence": 0.8
+    },
+    {
+      "word": "foldable",
+      "confidence": 0.95
+    },
+    {
+      "word": "gepolstert",
+      "confidence": 0.95
+    },
+    {
+      "word": "heating",
+      "confidence": 0.85
+    },
+    {
+      "word": "impermeable",
+      "confidence": 0.95
+    },
+    {
+      "word": "imperméable",
+      "confidence": 0.95
+    },
+    {
+      "word": "inalambrico",
+      "confidence": 0.9
+    },
+    {
+      "word": "inalambricos",
+      "confidence": 0.85
+    },
+    {
+      "word": "inalámbrica",
+      "confidence": 0.85
+    },
+    {
+      "word": "inalámbrico",
+      "confidence": 0.9
+    },
+    {
+      "word": "inalámbricos",
+      "confidence": 0.8
+    },
+    {
+      "word": "infrared",
+      "confidence": 0.85
+    },
+    {
+      "word": "insulated",
+      "confidence": 0.9
+    },
+    {
+      "word": "kühlende",
+      "confidence": 0.85
+    },
+    {
+      "word": "leicht",
+      "confidence": 0.95
+    },
+    {
+      "word": "lightweight",
+      "confidence": 0.95
+    },
+    {
+      "word": "long sleeve",
+      "confidence": 0.95
+    },
+    {
+      "word": "magnetverschluss",
+      "confidence": 0.85
+    },
+    {
+      "word": "multifonction",
+      "confidence": 0.95
+    },
+    {
+      "word": "ofertas",
+      "confidence": 0.8
+    },
+    {
+      "word": "padded",
+      "confidence": 0.95
+    },
+    {
+      "word": "plegable",
+      "confidence": 0.95
+    },
+    {
+      "word": "price",
+      "confidence": 0.8
+    },
+    {
+      "word": "puissant",
+      "confidence": 0.8
+    },
+    {
+      "word": "push",
+      "confidence": 0.8
+    },
+    {
+      "word": "qualité",
+      "confidence": 0.8
+    },
+    {
+      "word": "quick dry",
+      "confidence": 0.9
+    },
+    {
+      "word": "recargable",
+      "confidence": 0.95
+    },
+    {
+      "word": "recargables",
+      "confidence": 0.9
+    },
+    {
+      "word": "rechargeable",
+      "confidence": 0.95
+    },
+    {
+      "word": "reductor",
+      "confidence": 0.8
+    },
+    {
+      "word": "resistencia",
+      "confidence": 0.8
+    },
+    {
+      "word": "solar",
+      "confidence": 0.85
+    },
+    {
+      "word": "stopper",
+      "confidence": 0.8
+    },
+    {
+      "word": "stretch",
+      "confidence": 0.8
+    },
+    {
+      "word": "sun protection",
+      "confidence": 0.9
+    },
+    {
+      "word": "thermal",
+      "confidence": 0.85
+    },
+    {
+      "word": "thermo",
+      "confidence": 0.85
+    },
+    {
+      "word": "warm",
+      "confidence": 0.95
+    },
+    {
+      "word": "wash",
+      "confidence": 0.8
+    },
+    {
+      "word": "wasserdicht",
+      "confidence": 0.95
+    },
+    {
+      "word": "wasserdichte",
+      "confidence": 0.95
+    },
+    {
+      "word": "wasserdichter",
+      "confidence": 0.9
+    },
+    {
+      "word": "water proof",
+      "confidence": 0.9
+    },
+    {
+      "word": "water resistant",
+      "confidence": 0.9
+    },
+    {
+      "word": "waterproof",
+      "confidence": 0.95
+    },
+    {
+      "word": "wicking",
+      "confidence": 0.85
+    },
+    {
+      "word": "zoom",
+      "confidence": 0.85
+    },
+    {
+      "word": "élastique",
+      "confidence": 0.95
+    },
+    {
+      "word": "コンパクト",
+      "confidence": 0.95
+    },
+    {
+      "word": "伸縮",
+      "confidence": 0.95
+    },
+    {
+      "word": "反射",
+      "confidence": 0.8
+    },
+    {
+      "word": "多機能",
+      "confidence": 0.95
+    },
+    {
+      "word": "大容量",
+      "confidence": 0.95
+    },
+    {
+      "word": "撥水",
+      "confidence": 0.95
+    },
+    {
+      "word": "軽量",
+      "confidence": 0.95
+    },
+    {
+      "word": "速乾",
+      "confidence": 0.95
+    },
+    {
+      "word": "防水",
+      "confidence": 1.0
+    },
+    {
+      "word": "electrico",
+      "confidence": 0.85
+    },
+    {
+      "word": "electrica",
+      "confidence": 0.85
+    },
+    {
+      "word": "remoto",
+      "confidence": 0.85
+    },
+    {
+      "word": "expandible",
+      "confidence": 0.85
+    },
+    {
+      "word": "muscular",
+      "confidence": 0.85
+    },
+    {
+      "word": "gefüttert",
+      "confidence": 0.85
+    }
+  ]
+}

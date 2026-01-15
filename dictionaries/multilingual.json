@@ -1,0 +1,106 @@
+{
+  "name": "欧洲语言词典",
+  "description": "德语、法语、西班牙语、英语常用电商词汇",
+  "german": {
+    "商品词": [
+      "leggings", "hose", "jacke", "mantel", "kleid", "rock", "bluse", "hemd",
+      "pullover", "weste", "rucksack", "tasche", "schuhe", "stiefel", "sandalen",
+      "mütze", "hut", "handschuhe", "gürtel", "geldbörse", "uhr", "kopfhörer",
+      "thermoleggings", "jogginghose", "sportschuhe", "laufschuhe", "radunterhose"
+    ],
+    "场景词": [
+      "sport", "fitness", "yoga", "laufen", "wandern", "camping", "outdoor",
+      "büro", "business", "freizeit", "reise", "fahrrad"
+    ],
+    "人群词": [
+      "damen", "herren", "kinder", "mädchen", "jungen", "baby", "frauen", "männer"
+    ],
+    "卖点词": [
+      "wasserdicht", "atmungsaktiv", "leicht", "warm", "gepolstert", "elastisch",
+      "schnelltrocknend", "antibakteriell", "kompakt", "faltbar"
+    ],
+    "属性词": [
+      "langarm", "kurzarm", "mit kapuze", "mit reißverschluss", "gefüttert", "mini"
+    ],
+    "颜色词": [
+      "schwarz", "weiß", "rot", "blau", "grün", "gelb", "grau", "braun", "rosa", "beige"
+    ]
+  },
+  "french": {
+    "商品词": [
+      "leggings", "pantalon", "veste", "manteau", "robe", "jupe", "chemise",
+      "pull", "gilet", "sac", "chaussures", "bottes", "sandales", "chapeau",
+      "gants", "ceinture", "montre", "écouteurs", "collant", "etagere", "boite",
+      "coffre", "bac", "douche", "chauffage", "rangement"
+    ],
+    "场景词": [
+      "sport", "fitness", "yoga", "course", "randonnée", "camping", "outdoor",
+      "bureau", "voyage", "plage", "hiver", "été"
+    ],
+    "人群词": [
+      "femme", "homme", "enfant", "fille", "garçon", "bébé"
+    ],
+    "卖点词": [
+      "imperméable", "respirant", "léger", "chaud", "élastique", "pliable",
+      "rechargeable", "compact", "multifonction"
+    ],
+    "属性词": [
+      "manches longues", "manches courtes", "à capuche", "murale", "sous lit", "à roulettes"
+    ],
+    "颜色词": [
+      "noir", "blanc", "rouge", "bleu", "vert", "jaune", "gris", "marron", "rose", "beige"
+    ]
+  },
+  "spanish": {
+    "商品词": [
+      "leggings", "pantalón", "chaqueta", "abrigo", "vestido", "falda", "camisa",
+      "jersey", "chaleco", "mochila", "bolso", "zapatos", "botas", "sandalias",
+      "sombrero", "gorra", "guantes", "cinturón", "cartera", "reloj", "auriculares",
+      "aspiradora", "pistola", "toallas", "regleta", "audifonos"
+    ],
+    "场景词": [
+      "deporte", "fitness", "yoga", "correr", "senderismo", "camping", "outdoor",
+      "oficina", "viaje", "playa", "gym"
+    ],
+    "人群词": [
+      "mujer", "hombre", "niño", "niña", "bebé", "niños"
+    ],
+    "卖点词": [
+      "impermeable", "transpirable", "ligero", "cálido", "elástico", "plegable",
+      "recargable", "compacto", "multifunción"
+    ],
+    "属性词": [
+      "manga larga", "manga corta", "con capucha", "open ear"
+    ],
+    "颜色词": [
+      "negro", "blanco", "rojo", "azul", "verde", "amarillo", "gris", "marrón", "rosa", "beige"
+    ]
+  },
+  "english": {
+    "商品词": [
+      "shirt", "t-shirt", "pants", "jeans", "jacket", "coat", "dress", "skirt",
+      "blouse", "sweater", "vest", "backpack", "bag", "shoes", "boots", "sandals",
+      "hat", "cap", "gloves", "belt", "wallet", "watch", "headphones", "earphones",
+      "leggings", "shorts", "polo", "tops", "envelopes"
+    ],
+    "场景词": [
+      "running", "jogging", "training", "fitness", "yoga", "sports", "outdoor",
+      "camping", "hiking", "travel", "office", "business", "casual", "summer", "winter"
+    ],
+    "人群词": [
+      "mens", "womens", "women's", "men's", "kids", "boys", "girls", "baby",
+      "unisex", "adult", "children"
+    ],
+    "卖点词": [
+      "waterproof", "breathable", "lightweight", "warm", "padded", "elastic",
+      "quick-dry", "antibacterial", "compact", "foldable", "compression"
+    ],
+    "属性词": [
+      "long sleeve", "short sleeve", "sleeveless", "hooded", "zip-up", "button",
+      "pocket", "fleece", "thermal"
+    ],
+    "颜色词": [
+      "black", "white", "red", "blue", "green", "yellow", "gray", "grey", "brown", "pink", "beige", "navy"
+    ]
+  }
+}

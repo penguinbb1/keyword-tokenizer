@@ -223,10 +223,6 @@ def main():
     print("\n" + "="*60)
     print("测试完成!")
     print("="*60)
-    print("\n如果新版效果更好，可以切换到新版。")
-    print("方法: 修改 api/routes/tokenize.py 中的导入")
-    print("  将: from core.pipeline import TokenizePipeline")
-    print("  改: from core.enhanced_pipeline import EnhancedPipeline as TokenizePipeline")
 
 
 if __name__ == "__main__":

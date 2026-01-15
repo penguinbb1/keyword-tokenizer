@@ -23,7 +23,7 @@ git clone https://github.com/yourusername/keyword-tokenizer.git
 cd keyword-tokenizer
 
 # 创建虚拟环境
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # 安装依赖

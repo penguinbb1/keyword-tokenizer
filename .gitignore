@@ -213,6 +213,7 @@ __marimo__/
 # 测试数据（可能包含业务敏感信息）
 *.csv
 test_results*.json
+results*.json
 
 # macOS
 .DS_Store

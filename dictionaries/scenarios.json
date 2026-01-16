@@ -581,6 +581,151 @@
     {
       "word": "d'appoint",
       "confidence": 0.85
+    },
+    {
+      "word": "hunting",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "wedding",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "party",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "home",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "kitchen",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "bedroom",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "garden",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "christmas",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "indoor",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "swimming",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "jagd",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "bad",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "garten",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "küche",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "büro",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "angeln",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "schwimmen",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "cuisine",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "chasse",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "pêche",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "intérieur",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "cyclisme",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "natation",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "jardín",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "interior",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "caza",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "natación",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "pesca",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
+    },
+    {
+      "word": "deporte",
+      "confidence": 0.85,
+      "source": "google_taxonomy"
     }
   ]
 }

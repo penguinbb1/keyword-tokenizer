@@ -41,7 +41,7 @@ spans, locked_ranges = extractor.extract("New Balance running shoes")
 
 ### 3. 欧洲语言短语合并 ✅
 
-**问题**：`long sleeve` 被拆成 `["long", "sleeve"]`
+**问题**：`long sleeve` 被拆成 `["long", "sleeve"]`，`card stock` 被拆成 `["card", "stock"]`
 
 **解决方案**：`PhraseMerger` 在分词后识别并合并固定搭配
 
@@ -49,11 +49,22 @@ spans, locked_ranges = extractor.extract("New Balance running shoes")
 from core.phrase_merger import PhraseMerger
 
 merger = PhraseMerger()
-tokens = ["long", "sleeve", "shirt", "for", "men"]
+tokens = ["large", "waterproof", "duffle", "bag"]
 merged = merger.merge_to_strings(tokens)
 
-# 输出: ["long sleeve", "shirt", "for", "men"]
+# 输出: ["large", "waterproof", "duffle bag"]
 ```
+
+**短语词典规模**：263 条固定搭配
+
+| 类型 | 数量 | 示例 |
+|------|------|------|
+| 商品词短语 | 120 | card stock, duffle bag, yoga pants |
+| 属性词短语 | 73 | high waist, long sleeve, memory foam |
+| 卖点词短语 | 38 | noise cancelling, quick dry |
+| 人群词短语 | 14 | para mujer, pour femme |
+| 尺寸词短语 | 9 | queen size, king size |
+| 场景词短语 | 9 | work out, outdoor sports |
 
 ### 4. 多标签 + 上下文推断 ✅
 
@@ -218,5 +229,27 @@ from core.enhanced_pipeline import EnhancedPipeline as TokenizePipeline
 
 1. **日语分词优化**：调整 Sudachi 模式或添加用户词典
 2. **复合词处理**：德语复合词分解（如 "thermoleggings"）
-3. **评估系统**：按语言分 bucket 的 F1 评估
-4. **性能优化**：LRU 缓存、并发处理
+3. **品牌+型号合并**：识别 "Tesla Model 3"、"iPhone 15 Pro" 等组合
+4. **评估系统**：按语言分 bucket 的 F1 评估
+5. **性能优化**：LRU 缓存、并发处理
+
+---
+
+## 七、测试结果（9,017 条多语言关键词）
+
+| 指标 | 数值 |
+|------|------|
+| 总 tokens | 29,745 |
+| 低置信度 (≤0.5) | 13.8% |
+| 高置信度 (≥0.85) | 70.9% |
+| 合并短语数 | 1,003 |
+
+### 各语言标注分布
+
+| 语言 | 商品词 | 属性词 | 人群词 | 场景词 | 卖点词 | 颜色词 | 尺寸词 | 品牌词 |
+|------|--------|--------|--------|--------|--------|--------|--------|--------|
+| 日语 | 1,027 | 1,177 | 354 | 390 | 245 | 3 | 135 | 35 |
+| 德语 | 2,014 | 1,763 | 1,175 | 364 | 262 | 230 | 212 | 136 |
+| 法语 | 2,302 | 2,982 | 818 | 372 | 108 | 218 | 274 | 68 |
+| 英语 | 2,303 | 1,802 | 933 | 495 | 345 | 318 | 347 | 90 |
+| 西班牙语 | 2,180 | 3,144 | 258 | 407 | 226 | 27 | 95 | 111 |

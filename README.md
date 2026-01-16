@@ -74,11 +74,12 @@ curl -X POST "http://localhost:8000/api/tokenize" \
 
 ```python
 import asyncio
+from pathlib import Path
 from services.dictionary_manager import DictionaryManager
 from core.enhanced_pipeline import EnhancedPipeline
 
 # 初始化
-dict_manager = DictionaryManager()
+dict_manager = DictionaryManager(Path("dictionaries"))
 dict_manager.load_all()
 pipeline = EnhancedPipeline(dict_manager, enable_ai=False)
 
@@ -133,6 +134,7 @@ keyword-tokenizer/
 ├── core/                   # 核心处理模块
 │   ├── enhanced_pipeline.py    # 主处理流水线
 │   ├── enhanced_tagger.py      # 标签标注器
+│   ├── phrase_merger.py        # 短语合并器
 │   ├── script_segmenter.py     # 脚本分段
 │   ├── japanese_compound_merger.py  # 日语复合词
 │   ├── spanish_normalizer.py   # 西班牙语归一化
@@ -140,19 +142,29 @@ keyword-tokenizer/
 ├── services/               # 服务层
 │   ├── dictionary_manager.py   # 词典管理
 │   └── ai_enhancer_v2.py       # AI 增强
-├── dictionaries/           # 词典数据
+├── dictionaries/           # 词典数据（1,700+ 词条）
+├── dict_expansion/         # 词典扩充工具
 ├── scripts/                # 工具脚本
+│   ├── batch_test_v2.py        # 批量测试
+│   ├── import_ai_tags.py       # 导入 AI 标注
+│   └── import_google_taxonomy.py  # 导入 Google 商品分类
 └── docs/                   # 文档
 ```
 
 ## 📚 词典管理
 
-### 添加新词
+### 当前词典规模
 
-```bash
-# 使用安全扩充脚本
-python3 scripts/safe_dict_expand.py --apply
-```
+| 词典 | 词条数 | 说明 |
+|------|--------|------|
+| products | 800+ | 商品词（多语言） |
+| attributes | 350+ | 属性词 |
+| scenarios | 145 | 场景词 |
+| brands | 110+ | 品牌词 |
+| features | 83 | 卖点词 |
+| audiences | 81 | 人群词 |
+| colors | 68 | 颜色词 |
+| 短语词典 | 263 | 固定搭配（内置） |
 
 ### 词典格式
 
@@ -164,6 +176,23 @@ python3 scripts/safe_dict_expand.py --apply
     {"word": "シューズ", "confidence": 0.95}
   ]
 }
+```
+
+### 扩充词典
+
+```bash
+# 方式一：使用词典扩充模块
+python3 dict_expansion/apply_expansion.py --dry-run  # 预览
+python3 dict_expansion/apply_expansion.py            # 实际导入
+
+# 方式二：导入 Google Product Taxonomy
+python3 scripts/import_google_taxonomy.py --lang en --dry-run  # 预览
+python3 scripts/import_google_taxonomy.py --lang en            # 导入英语
+python3 scripts/import_google_taxonomy.py --lang de            # 导入德语
+
+# 方式三：导入 AI 标注结果
+python3 scripts/import_ai_tags.py results.json --dry-run
+python3 scripts/import_ai_tags.py results.json
 ```
 
 ## ⚙️ 配置选项
@@ -179,6 +208,8 @@ python3 scripts/safe_dict_expand.py --apply
 
 详细开发文档请参阅 [docs/DEVELOPER.md](docs/DEVELOPER.md)
 
+架构设计文档请参阅 [docs/V2_ARCHITECTURE.md](docs/V2_ARCHITECTURE.md)
+
 ```bash
 # 运行测试
 pytest3 tests/
@@ -189,10 +220,14 @@ black .
 
 ## 📊 性能指标
 
-在 9000+ 条多语言关键词测试中：
-- 低置信度词：~13%
-- 高置信度词：~70%
-- 处理速度：~1000 条/分钟
+在 9,017 条多语言关键词测试中：
+
+| 指标 | 数值 |
+|------|------|
+| 总 tokens | 29,745 |
+| 低置信度词 (≤0.5) | 10.4% |
+| 高置信度词 (≥0.85) | 78.1% |
+| 处理速度 | ~1000 条/分钟 |
 
 ## 🤝 贡献
 
@@ -206,4 +241,5 @@ MIT License
 
 - [jieba](https://github.com/fxsjy/jieba) - 中文分词
 - [SudachiPy](https://github.com/WorksApplications/SudachiPy) - 日语分词
+- [Google Product Taxonomy](https://www.google.com/basepages/producttype/taxonomy.en-US.txt) - 商品分类数据
 - [Anthropic Claude](https://www.anthropic.com/) - AI 增强

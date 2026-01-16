@@ -347,19 +347,28 @@ class SpanishNormalizer:
 
 ### 6. 短语合并器 (`core/phrase_merger.py`)
 
-**功能**：合并欧洲语言固定搭配
+**功能**：合并欧洲语言固定搭配（263 条预定义短语）
 
 ```python
 class PhraseMerger:
     def merge(self, tokens: List[str]) -> List[MergedToken]:
-        # 输入: ["long", "sleeve", "shirt"]
-        # 输出: ["long sleeve", "shirt"]
+        # 输入: ["large", "waterproof", "duffle", "bag"]
+        # 输出: ["large", "waterproof", "duffle bag"]
         
-        # 预定义搭配：
-        # - "long sleeve", "short sleeve"
-        # - "high waist", "low waist"
-        # - "quick dry", "water resistant"
+        # 预定义搭配类型：
+        # - 商品词短语 (120条): card stock, duffle bag, yoga pants
+        # - 属性词短语 (73条): high waist, long sleeve, memory foam
+        # - 卖点词短语 (38条): noise cancelling, quick dry
+        # - 人群词短语 (14条): para mujer, pour femme
+        # - 尺寸词短语 (9条): queen size, king size
+        # - 场景词短语 (9条): work out, outdoor sports
 ```
+
+**多语言支持**：
+- 英语: high waist, long sleeve, duffle bag
+- 德语: mit taschen, mit kapuze, hohe taille
+- 法语: taille haute, manches longues, pour femme
+- 西班牙语: manga larga, cintura alta, para mujer
 
 ### 7. 增强版标签标注器 (`core/enhanced_tagger.py`)
 
@@ -588,7 +597,11 @@ for result in results:
 
 ---
 
-*文档版本: 1.0 | 最后更新: 2025-01*
+*文档版本: 1.1 | 最后更新: 2025-01*
+
+**更新日志**：
+- v1.1: 添加短语合并模块（263 条短语）、Google Taxonomy 导入工具
+- v1.0: 初始版本
 
 ---
 
@@ -600,6 +613,7 @@ for result in results:
 |------|------|----------|
 | `batch_test_v2.py` | 批量测试关键词，生成结果报告 |
 | `import_ai_tags.py` | 将 AI 标注结果导入词典 |
+| `import_google_taxonomy.py` | 导入 Google 商品分类词典 |
 | `safe_dict_expand.py` | 安全扩充词典（日语复合词等） |
 | `security_check.py` | GitHub 开源前安全检查 |
 
@@ -617,15 +631,46 @@ for result in results:
 
 ```bash
 # 1. 批量测试（最常用）
-python3 scripts/batch_test_v2.py keywords.csv -o results.json --no-ai
+python scripts/batch_test_v2.py keywords.csv -o results.json --no-ai
 
 # 2. 导入 AI 标注结果
-python3 scripts/import_ai_tags.py results_ai.json --dry-run  # 预览
-python3 scripts/import_ai_tags.py results_ai.json            # 实际导入
+python scripts/import_ai_tags.py results_ai.json --dry-run  # 预览
+python scripts/import_ai_tags.py results_ai.json            # 实际导入
 
-# 3. 安全扩充词典
-python3 scripts/safe_dict_expand.py --apply
+# 3. 导入 Google Product Taxonomy
+python scripts/import_google_taxonomy.py --lang en --dry-run  # 预览英语
+python scripts/import_google_taxonomy.py --lang en            # 导入英语
+python scripts/import_google_taxonomy.py --lang de            # 导入德语
+python scripts/import_google_taxonomy.py --lang fr            # 导入法语
 
-# 4. 开源前检查
-python3 scripts/security_check.py
+# 4. 安全扩充词典
+python scripts/safe_dict_expand.py --apply
+
+# 5. 开源前检查
+python scripts/security_check.py
 ```
+
+### Google Taxonomy 导入说明
+
+Google Product Taxonomy 是 Google 官方的商品分类体系，包含 5,000+ 商品类目，支持 20+ 语言。
+
+**下载完整版 Taxonomy 文件**：
+```bash
+# 英语
+curl -o scripts/taxonomy_data/taxonomy.en-US.txt \
+  "https://www.google.com/basepages/producttype/taxonomy.en-US.txt"
+
+# 德语
+curl -o scripts/taxonomy_data/taxonomy.de-DE.txt \
+  "https://www.google.com/basepages/producttype/taxonomy.de-DE.txt"
+
+# 法语、西班牙语、日语等同理
+```
+
+**支持的语言代码**：
+- `--lang en` (en-US)
+- `--lang de` (de-DE)
+- `--lang fr` (fr-FR)
+- `--lang es` (es-ES)
+- `--lang ja` (ja-JP)
+- `--lang zh` (zh-CN)
